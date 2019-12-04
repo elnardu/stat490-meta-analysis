@@ -17,17 +17,6 @@ underlying immunosuppressive disorders. we tested specimens from the upper (naso
 (bronchoalveolar lavage, sputum) respiratory tract and whole blood, plasma, and serum specimens for mers-cov by
 real-time rt-pcr targeting the upe and orf1a genes of mers-cov.
 
-lancet 2013; 381: 2265–72
-published online
-may 29, 2013
-http://dx.doi.org/10.1016/
-s0140-6736(13)60982-4
-this online publication has
-been corrected. the corrected
-version ﬁrst appeared at
-thelancet.com on june 28,
-2013
-see comment page 2229
 
 findings initial clinical presentation included fever, chills, and myalgia in both patients, and for patient 1, diarrhoea.
 respiratory symptoms rapidly became predominant with acute respiratory failure leading to mechanical ventilation
@@ -61,7 +50,7 @@ jordan, qatar, saudi arabia, tunisia, and the uk).7,8 most
 patients with reported symptoms had severe respiratory
 disease, some with acute renal failure, and the case fatality
 rate is estimated at 50%.9 all cases originated from, or had
-www.thelancet.com vol 381 june 29, 2013
+
 
 a history of travel to, the middle east, except for two
 secondary cases in the uk,4,10 two in tunisia,8 and one in
@@ -81,90 +70,6 @@ adaptation might have been pivotal in the switch from
 aborted outbreaks to the international pandemic of
 sars-cov in 2003–04.14 we report detailed clinical and
 
-*members listed at end of paper
-service de gestion du risque
-infectieux, vigilances et
-infectiologie, hopital huriez,
-pavillon fourrier, centre
-hospitalier régional et
-universitaire de lille,
-université de lille 2, lille
-cedex, france (prof b guery phd,
-f vuotto md); pôle de
-réanimation, hôpital roger
-salengro, centre hospitalier
-régional et universitaire de
-lille, université de lille 2, lille
-cedex, france (j poissy md,
-prof d mathieu phd); service de
-maladies infectieuses, centre
-hospitalier de douai, douai,
-france (l el mansouf md,
-x lemaire md); service de
-réanimation, centre
-hospitalier de douai, douai,
-france (c séjourné md); unité
-de maladies infectieuses,
-centre hospitalier de
-valenciennes, valenciennes,
-france (n ettahar md);
-laboratoire de virologie,
-centre de biologie pathologie,
-centre hospitalier régional et
-universitaire de lille,
-université de lille 2, lille
-cedex, france (a goﬀard md);
-institut pasteur, national
-reference center for inﬂuenza
-viruses and unit of molecular
-genetics of rna viruses, paris,
-france (s behillil pharmd,
-v enouf phd,
-prof s van der werf phd);
-université paris diderot
-sorbonne paris cité, unit of
-molecular genetics of rna
-viruses, paris, france (s behillil,
-v enouf, prof s van der werf);
-
-2265
-
-articles
-
-centre national de la recherche
-scientiﬁque umr3569, paris,
-france (s behillil, v enouf,
-prof s van der werf); institut
-pasteur, cellule d’intervention
-biologique d’urgence, paris,
-france (v caro phd,
-j-c manuguerra phd);
-institut de veille sanitaire,
-saint-maurice, france
-(a mailles phd, d che mph);
-conservatoire national des
-arts et métiers, paris, france
-(prof a fontanet phd); and
-institut pasteur, emerging
-diseases epidemiology unit,
-paris, france (prof a fontanet)
-correspondence to:
-dr sylvie van der werf, institut
-pasteur, national reference
-center for inﬂuenza viruses and
-unit of molecular genetics of
-rna viruses, 75015 paris, france
-sylvie.van-der-werf@pasteur.fr
-or
-dr benoit guery, service de
-gestion du risque infectieux,
-vigilances et infectiologie,
-hopital huriez, pavillon fourrier,
-59045 lille cedex, france
-bguery@invivo.edu
-for the munich/abu_
-dhabi/2012 sequence see
-http://www.virology-bonn.de/
 
 virological information for two related cases of mers-cov
 disease, after nosocomial transmission of the virus from
@@ -842,8 +747,6 @@ which an isolate was obtained.
 
 table 3: genetic analysis of specimens
 
-www.thelancet.com vol 381 june 29, 2013
-
 articles
 
 deemed negative (table 3). in view of the deterioration of
@@ -901,7 +804,6 @@ discussion
 this report describes the ﬁrst two french cases of
 mers-cov infection with a case of patient-to-patient
 nosocomial transmission (panel). our ﬁndings suggest
-www.thelancet.com vol 381 june 29, 2013
 
 that the virus’s incubation period could reach 9–12 days,
 a longer period than what was previously recorded, with
@@ -1178,7 +1080,6 @@ emerging infectious diseases (ibeid, grant number anr-10-labx-62ibeid from the f
 programme) and from the european community’s seventh framework
 programme (fp7/2007–2013) under the project emperie (european
 
-www.thelancet.com vol 381 june 29, 2013
 
 community grant agreement number 223498) and under the project
 predemics (grant agreement number 278433). we thank the nurses
@@ -1188,111 +1089,3 @@ controlled the spread of this disease. we thank p despres, s paulous,
 and m p frenkiel (unit of flavivirus-host molecular interactions,
 institut pasteur) for preliminary serological analyses. we thank
 eric kipnis for editing of the report.
-references
-1
-perlman s, netland j. coronaviruses post-sars: update on
-replication and pathogenesis. nat rev microbiol 2009; 7: 439–50.
-2
-van der hoek l. human coronaviruses: what do they cause?
-antivir ther (lond) 2007; 12: 651–58.
-3
-zaki am, van boheemen s, bestebroer tm, osterhaus adme,
-fouchier ram. isolation of a novel coronavirus from a man with
-pneumonia in saudi arabia. n engl j med 2012; 367: 1814–20.
-4
-bermingham a, chand ma, brown cs, et al. severe respiratory
-illness caused by a novel coronavirus, in a patient transferred to the
-united kingdom from the middle east, september 2012.
-euro surveill 2012; 17: 20290.
-5
-van boheemen s, de graaf m, lauber c, et al. genomic
-characterization of a newly discovered coronavirus associated with
-acute respiratory distress syndrome in humans. mbio 2012;
-3: e00473–12.
-6
-annan a, baldwin hj, corman vm, et al. human betacoronavirus
-2c emc/2012-related viruses in bats, ghana and europe.
-emerg infect dis 2013; 19: 456–59.
-7
-who. novel coronavirus infection—update may 15, 2013.
-http://www.who.int/csr/don/2013_05_15_ncov/en/index.html
-(accessed may 17, 2013).
-8
-who. novel coronavirus infection—update may 22, 2013.
-http://www.who.int/csr/don/2013_05_22_ncov/en/index.html
-(accessed may 27, 2013).
-9
-who. novel coronavirus infection—update may 23, 2013.
-http://www.who.int/csr/don/2013_05_23_ncov/en/index.html
-(accessed may 28, 2013).
-10 health protection agency (hpa) uk novel coronavirus
-investigation team. evidence of person-to-person transmission
-within a family cluster of novel coronavirus infections,
-united kingdom, february 2013. euro surveill 2013; 18: 20427.
-11 gulland a. two cases of novel coronavirus are conﬁrmed in france.
-bmj 2013; 346: f3114.
-12 who. novel coronavirus summary and literature—update april 25,
-2013. http://www.who.int/csr/disease/coronavirus_infections/
-update_20130425/en/index.html (accessed may 19, 2013).
-13 de groot rj, baker sc, baric rs, et al. middle east respiratory
-syndrome coronavirus (mers-cov): announcement of the
-coronavirus study group. j virol 2013; published online may 15.
-doi:10.1128/jvi.01244-13.
-14 peiris jsm, guan y, yuen ky. severe acute respiratory syndrome.
-nat med 2004; 10: s88–97.
-15 corman vm, müller ma, costabel u, et al. assays for laboratory
-conﬁrmation of novel human coronavirus (hcov-emc) infections.
-euro surveill 2012; 17: 20334.
-16 corman vm, eckerle i, bleicker t, et al. detection of a novel human
-coronavirus by real-time reverse-transcription polymerase chain
-reaction. euro surveill 2012; 17: 20285.
-17 cotten m, lam tt, watson sj, et al. full-genome deep sequencing
-and phylogenetic analysis of novel human betacoronavirus.
-emerg infect dis 2013; 19: 736–42.
-18 gomersall cd, joynt gm, lam p, et al. short-term outcome of
-critically ill patients with severe acute respiratory syndrome.
-intensive care med 2004; 30: 381–87.
-19 booth cm, matukas lm, tomlinson ga, et al. clinical features and
-short-term outcomes of 144 patients with sars in the greater
-toronto area. jama 2003; 289: 2801–09.
-20 buchholz u, müller ma, nitsche a, et al. contact investigation of a
-case of human novel coronavirus infection treated in a german
-hospital, october-november 2012. euro surveill 2013; 18: 20406.
-21 cheng pkc, wong da, tong lkl, et al. viral shedding patterns of
-coronavirus in patients with probable severe acute respiratory
-syndrome. lancet 2004; 363: 1699–700.
-
-2271
-
-articles
-
-22
-
-23
-
-24
-
-2272
-
-peiris jsm, chu cm, cheng vcc, et al. clinical progression and
-viral load in a community outbreak of coronavirus-associated sars
-pneumonia: a prospective study. lancet 2003; 361: 1767–72.
-lessler j, reich ng, brookmeyer r, perl tm, nelson ke,
-cummings dat. incubation periods of acute respiratory viral
-infections: a systematic review. lancet infect dis 2009; 9: 291–300.
-who. novel coronavirus summary and literature—update may 17,
-2013. http://www.who.int/csr/disease/coronavirus_infections/
-update_20130517/en/index.html (accessed may 17, 2013).
-
-25
-26
-
-peiris jsm, yuen ky, osterhaus adme, stöhr k. the severe acute
-respiratory syndrome. n engl j med 2003; 349: 2431–41.
-mccloskey b, zumla a, stephens g, heymann dl, memish za.
-applying lessons from sars to a newly identiﬁed coronavirus.
-lancet infect dis 2013; 13: 384–85.
-
-www.thelancet.com vol 381 june 29, 2013
-
-

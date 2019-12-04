@@ -287,8 +287,6 @@ taxonomy of viruses (ictv). our sequence comparisons suggested that the virus nu
 identified is derived from a novel coronavirus that is
 distinct from all coronaviruses described to date.
 
-www.eurosurveillance.org
-
 a total of 13 close contacts of the index case were identified who had developed mild self-limiting respiratory illnesses since exposure to the case [8]. ten of
 these have had nose and throat swabs tested by pancoronavirus assay and the novel coronavirus was not
 detected.
@@ -350,65 +348,5 @@ acute severe respiratory illness. extensive serological
 testing of potentially exposed human populations and
 contacts will be a key indicator of the extent of disease
 due to novel coronaviruses.
-www.eurosurveillance.org
-
-references
-1.
-2.
-3.
-4.
-
-5.
-6.
-7.
-
-8.
-
-9.
-
-10.
-
-tyrrell da, bynoe ml. cultivation of a novel type of commoncold virus in organ cultures. br med j. 1965;1(5448):1467-70.
-shi z, hu z. a review of studies on animal reservoirs of the
-sars coronavirus. virus res. 2008;133(1):74-87.
-anderson lj, tong s. update on sars research and other
-possibly zoonotic coronaviruses. int j antimicrob agents.
-2010;36 suppl 1:s21-5.
-world health organization (who). summary table of sars
-cases by country, 1 november 2002 - 7 august 2003. geneva:
-who; 15 aug 2003. available from: http://www.who.int/csr/
-sars/country/2003_08_15/en/index.html
-promed mail. novel coronavirus - saudi arabia: human isolate.
-archive number: 20120920.1302733. available from: http://
-www.promedmail.org/?p=2400:1000
-bermingham a, heinen p, iturriza-gómara m, gray j, appleton
-h, zambon mc. laboratory diagnosis of sars. philos trans r
-soc lond b biol sci. 2004;359(1447):1083-9.
-health protection agency (hpa). partial genetic
-sequence information for scientists about the novel
-coronavirus 2012. london: hpa. [accessed 2 oct
-2012]. available from: http://www.hpa.org.uk/topics/
-infectiousdiseases/infectionsaz/novelcoronavirus2012/
-resppartialgeneticsequenceofnovelcoronavirus/
-pebody rg, chand ma, thomas hl, green hk, boddington
-nl, carvalho c, et al. the united kingdom public health
-response to an imported laboratory confirmed case of
-a novel coronavirus in september 2012. euro surveill.
-2012;17(40):pii=20292. available from: http://www.
-eurosurveillance.org/viewarticle.aspx?articleid=20292
-drexler jf, gloza-rausch f, glende j, corman vm, muth d,
-goettsche m, et al. genomic characterization of severe
-acute respiratory syndrome-related coronavirus in european
-bats and classification of coronaviruses based on partial
-rna-dependent rna polymerase gene sequences j virol.
-2010;84(21):11336-49.
-corman vm, eckerle i, bleicker t, zaki a, landt o, eschbachbludau m, et al. detection of a novel human coronavirus by
-real-time reverse-transcription polymerase chain reaction.
-euro surveill. 2012;17(39):pii=20285. available online: http://
-www.eurosurveillance.org/viewarticle.aspx?articleid=20285
-
-www.eurosurveillance.org
-
-5
 
 

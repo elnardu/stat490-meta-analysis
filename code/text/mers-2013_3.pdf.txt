@@ -25,9 +25,7 @@ may explain the severity of the disease observed in humans and
 the, up to now, limited human-to-human transmission.
 emerging infectious disease
 
-| dpp4
 
-downloaded at purdue university library on november 12, 2019
 
 i
 
@@ -54,7 +52,6 @@ replicated in bronchial, bronchiolar, and alveolar epithelial cells
 (11), in line with the observed respiratory disease in humans. the
 recently deﬁned receptor for mers-cov, dipeptidylpeptidase 4
 
-16598–16603 | pnas | october 8, 2013 | vol. 110 | no. 41
 
 (dpp4), is generally expressed in endothelial and epithelial cells
 and has been shown to be present on cultured human nonciliated
@@ -474,97 +471,5 @@ rna extraction. rna was extracted from swabs, bal, and whole blood
 samples using the qiaamp viral rna kit (qiagen) according to the manufacturer’s instructions. tissues (30 mg) were homogenized in rlt buffer and
 rna was extracted using the rneasy kit (qiagen).
 
-acknowledgments. we thank drs. bart haagmans and ron fouchier at
-the erasmus medical center for providing middle east respiratory coronavirus isolate hcov-emc/2012; ralph baric at the university of north carolina
-at chapel hill for subgenomic rna primer sequences; laura baseler, tina
-thomas, dan long, and rebecca rosenke for histopathology; the staff of the
-rocky mountain veterinary branch for assistance with the animal experiments; and anita mora for ﬁgure preparation. this research was supported
-by the intramural research program of the national institute of allergy and
-infectious diseases, national institutes of health; a.l.r., a.g.b., a.o.,
-and m.g.k. are funded through grant u54 ai081680, national institute of
-allergy and infectious diseases regional centers of excellence, national
-institutes of health/national institute of allergy and infectious diseases
-contract hhsn272200800060c, and national institutes of health grant
-p51od010425 (washington national primate center).
-
-1. van boheemen s, et al. (2012) genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans. mbio 3(6):pii
-e00473-12.
-2. zaki am, van boheemen s, bestebroer tm, osterhaus ad, fouchier ra (2012) isolation
-of a novel coronavirus from a man with pneumonia in saudi arabia. n engl j med
-367(19):1814–1820.
-3. annan a, et al. (2013) human betacoronavirus 2c emc/2012-related viruses in bats,
-ghana and europe. emerg infect dis 19(3):456–459.
-4. anthony sj, et al. (2013) coronaviruses in bats from mexico. j gen virol 94(pt 5):
-1028–1038.
-5. de groot rj, et al. (2013) middle east respiratory syndrome coronavirus (mers-cov):
-announcement of the coronavirus study group. j virol 87(14):7790–7792.
-6. who (2013) coronavirus infections. available at www.who.int/csr/don/archive/
-disease/coronavirus_infections/en/index.html. accessed august 30, 2013.
-7. health protection agency uk novel cornoavirus investigation team (2013) evidence
-of person-to-person transmission within a family cluster of novel coronavirus infections, united kingdom, february 2013. euro surveill 18(11):20427.
-8. assiri a, et al.; ksa mers-cov investigation team (2013) hospital outbreak of middle
-east respiratory syndrome coronavirus. n engl j med 369(5):407–416.
-9. guery b, et al.; mers-cov study group (2013) clinical features and viral diagnosis of
-two cases of infection with middle east respiratory syndrome coronavirus: a report
-of nosocomial transmission. lancet 381(9885):2265–2272.
-10. kindler e, et al. (2013) efﬁcient replication of the novel human betacoronavirus emc
-on primary human epithelium highlights its zoonotic potential. mbio 4(1):e00611-12.
-11. chan rw, et al. (2013) tropism of and innate immune responses to the novel human
-betacoronavirus lineage c virus in human ex vivo respiratory organ cultures. j virol
-87(12):6604–6614.
-12. raj vs, et al. (2013) dipeptidyl peptidase 4 is a functional receptor for the emerging
-human coronavirus-emc. nature 495(7440):251–254.
-13. munster vj, de wit e, feldmann h (2013) pneumonia from human coronavirus in
-a macaque model. n engl j med 368(16):1560–1562.
-14. jacquelin b, et al. (2009) nonpathogenic siv infection of african green monkeys induces a strong but rapidly controlled type i ifn response. j clin invest 119(12):
-3544–3555.
-
-15. peiris js, yuen ky, osterhaus ad, stöhr k (2003) the severe acute respiratory syndrome. n engl j med 349(25):2431–2441.
-16. mentzel s, dijkman hb, van son jp, koene ra, assmann kj (1996) organ distribution
-of aminopeptidase a and dipeptidyl peptidase iv in normal mice. j histochem cytochem
-44(5):445–461.
-17. shinya k, et al. (2006) avian ﬂu: inﬂuenza virus receptors in the human airway. nature 440(7083):435–436.
-18. van riel d, et al. (2006) h5n1 virus attachment to lower respiratory tract. science
-312(5772):399.
-19. drosten c, et al. (2013) clinical features and virological analysis of a case of middle
-east respiratory syndrome coronavirus infection. lancet infect dis 13(9):745–751.
-20. fouchier ra, et al. (2003) aetiology: koch’s postulates fulﬁlled for sars virus. nature
-423(6937):240.
-21. greenough tc, et al. (2005) pneumonitis and multi-organ system disease in common
-marmosets (callithrix jacchus) infected with the severe acute respiratory syndromeassociated coronavirus. am j pathol 167(2):455–463.
-22. haagmans bl, osterhaus ad (2006) nonhuman primate models for sars. plos med
-3(5):e194.
-23. kuiken t, et al. (2003) newly discovered coronavirus as the primary cause of severe
-acute respiratory syndrome. lancet 362(9380):263–270.
-24. lawler jv, et al. (2006) cynomolgus macaque as an animal model for severe acute
-respiratory syndrome. plos med 3(5):e149.
-25. mcauliffe j, et al. (2004) replication of sars coronavirus administered into the respiratory tract of african green, rhesus and cynomolgus monkeys. virology 330(1):
-8–15.
-26. qin c, et al. (2005) an animal model of sars produced by infection of macaca mulatta with sars coronavirus. j pathol 206(3):251–259.
-27. rowe t, et al. (2004) macaque model for severe acute respiratory syndrome. j virol
-78(20):11401–11404.
-28. smits sl, et al. (2010) exacerbated innate host response to sars-cov in aged nonhuman primates. plos pathog 6(2):e1000756.
-29. munster vj, et al. (2012) rapid nipah virus entry into the central nervous system of
-hamsters via the olfactory route. sci rep 2:736.
-30. corman vm, et al. (2012) detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction. euro surveill 17(39):pii 20285.
-
-histopathology, ish, and ihc. histopathology, ish, and ihc were performed on
-macaque tissues. for detailed information, see si materials and methods.
-
-microbiology
-
-transmission electron microscopy. transmission electron microscopy was performed essentially as described previously (29). for detailed information, see
-si materials and methods.
-
-downloaded at purdue university library on november 12, 2019
-
-quantitative pcr. for detection of viral rna, we used the one-step real-time
-rt-pcr upe assay (30); for the detection of mrna, we used an orf1- and
-orf5-speciﬁc sybr green assay. see si materials and methods for detailed
-information.
-
-de wit et al.
-
-pnas | october 8, 2013 | vol. 110 | no. 41 | 16603
 
 
