@@ -1,0 +1,1298 @@
+articles
+
+clinical features and viral diagnosis of two cases of infection
+with middle east respiratory syndrome coronavirus:
+a report of nosocomial transmission
+benoit guery, julien poissy, loubna el mansouf, caroline séjourné, nicolas ettahar, xavier lemaire, fanny vuotto, anne goﬀard, sylvie behillil,
+vincent enouf, valérie caro, alexandra mailles, didier che, jean-claude manuguerra, daniel mathieu, arnaud fontanet, sylvie van der werf, and
+the mers-cov study group*
+
+summary
+background human infection with a novel coronavirus named middle east respiratory syndrome coronavirus
+(mers-cov) was ﬁrst identiﬁed in saudi arabia and the middle east in september, 2012, with 44 laboratory-conﬁrmed
+cases as of may 23, 2013. we report detailed clinical and virological data for two related cases of mers-cov disease,
+after nosocomial transmission of the virus from one patient to another in a french hospital.
+methods patient 1 visited dubai in april, 2013; patient 2 lives in france and did not travel abroad. both patients had
+underlying immunosuppressive disorders. we tested specimens from the upper (nasopharyngeal swabs) or the lower
+(bronchoalveolar lavage, sputum) respiratory tract and whole blood, plasma, and serum specimens for mers-cov by
+real-time rt-pcr targeting the upe and orf1a genes of mers-cov.
+
+lancet 2013; 381: 2265–72
+published online
+may 29, 2013
+http://dx.doi.org/10.1016/
+s0140-6736(13)60982-4
+this online publication has
+been corrected. the corrected
+version ﬁrst appeared at
+thelancet.com on june 28,
+2013
+see comment page 2229
+
+findings initial clinical presentation included fever, chills, and myalgia in both patients, and for patient 1, diarrhoea.
+respiratory symptoms rapidly became predominant with acute respiratory failure leading to mechanical ventilation
+and extracorporeal membrane oxygenation (ecmo). both patients developed acute renal failure. mers-cov was
+detected in lower respiratory tract specimens with high viral load (eg, cycle threshold [ct] values of 22·9 for upe and
+24 for orf1a for a bronchoalveolar lavage sample from patient 1; ct values of 22·5 for upe and 23·9 for orf1a for an
+induced sputum sample from patient 2), whereas nasopharyngeal specimens were weakly positive or inconclusive.
+the two patients shared the same room for 3 days. the incubation period was estimated at 9–12 days for the second
+case. no secondary transmission was documented in hospital staﬀ despite the absence of speciﬁc protective measures
+before the diagnosis of mers-cov was suspected. patient 1 died on may 28, due to refractory multiple organ failure.
+interpretation patients with respiratory symptoms returning from the middle east or exposed to a conﬁrmed case
+should be isolated and investigated for mers-cov with lower respiratory tract sample analysis and an assumed
+incubation period of 12 days. immunosuppression should also be taken into account as a risk factor.
+funding french institute for public health surveillance, anr grant labex integrative biology of emerging infectious
+diseases, and the european community’s seventh framework programme projects emperie and predemics.
+
+introduction
+coronaviruses are large enveloped single-stranded rna
+viruses that can infect and cause disease in many animal
+species, including bats, mice, birds, dogs, pigs, and cattle.1
+in human beings, ﬁve respiratory coronaviruses have
+been described, causing common cold (229e and oc43),
+upper respiratory tract infections (nl63), or pneumonia
+(hku1 and sars).2 in september, 2012, a novel human
+coronavirus, named hcov-emc, was identiﬁed in two
+patients with severe respiratory disease.3,4 this new
+coronavirus belongs to lineage c of the genus betacoronavirus, and is genetically closely related to coronaviruses from various bat species in africa and eurasia.1,5,6
+as of may 23, 2013, 44 laboratory-conﬁrmed cases had
+been diagnosed in several countries (france, germany,
+jordan, qatar, saudi arabia, tunisia, and the uk).7,8 most
+patients with reported symptoms had severe respiratory
+disease, some with acute renal failure, and the case fatality
+rate is estimated at 50%.9 all cases originated from, or had
+www.thelancet.com vol 381 june 29, 2013
+
+a history of travel to, the middle east, except for two
+secondary cases in the uk,4,10 two in tunisia,8 and one in
+france.11 a large cluster (>20) of cases has been documented in a hospital in saudi arabia, and another is
+suspected on the basis of a retrospective analysis of
+samples kept after an outbreak of respiratory diseases in a
+jordanian hospital in april, 2012.12 on the basis of outbreak dynamics, hcov-emc was renamed middle east
+respiratory syndrome coronavirus (mers-cov) by the
+international committee on taxonomy of viruses.13
+whereas an as yet unidentiﬁed animal reservoir might
+have caused the initial outbreaks by introducing the virus
+into the human population, the occurrence of clusters,
+whether in the community or in hospitals, is a worrying
+development, because it might result from adaptation of
+the virus to inter-human transmission. this process of
+adaptation might have been pivotal in the switch from
+aborted outbreaks to the international pandemic of
+sars-cov in 2003–04.14 we report detailed clinical and
+
+*members listed at end of paper
+service de gestion du risque
+infectieux, vigilances et
+infectiologie, hopital huriez,
+pavillon fourrier, centre
+hospitalier régional et
+universitaire de lille,
+université de lille 2, lille
+cedex, france (prof b guery phd,
+f vuotto md); pôle de
+réanimation, hôpital roger
+salengro, centre hospitalier
+régional et universitaire de
+lille, université de lille 2, lille
+cedex, france (j poissy md,
+prof d mathieu phd); service de
+maladies infectieuses, centre
+hospitalier de douai, douai,
+france (l el mansouf md,
+x lemaire md); service de
+réanimation, centre
+hospitalier de douai, douai,
+france (c séjourné md); unité
+de maladies infectieuses,
+centre hospitalier de
+valenciennes, valenciennes,
+france (n ettahar md);
+laboratoire de virologie,
+centre de biologie pathologie,
+centre hospitalier régional et
+universitaire de lille,
+université de lille 2, lille
+cedex, france (a goﬀard md);
+institut pasteur, national
+reference center for inﬂuenza
+viruses and unit of molecular
+genetics of rna viruses, paris,
+france (s behillil pharmd,
+v enouf phd,
+prof s van der werf phd);
+université paris diderot
+sorbonne paris cité, unit of
+molecular genetics of rna
+viruses, paris, france (s behillil,
+v enouf, prof s van der werf);
+
+2265
+
+articles
+
+centre national de la recherche
+scientiﬁque umr3569, paris,
+france (s behillil, v enouf,
+prof s van der werf); institut
+pasteur, cellule d’intervention
+biologique d’urgence, paris,
+france (v caro phd,
+j-c manuguerra phd);
+institut de veille sanitaire,
+saint-maurice, france
+(a mailles phd, d che mph);
+conservatoire national des
+arts et métiers, paris, france
+(prof a fontanet phd); and
+institut pasteur, emerging
+diseases epidemiology unit,
+paris, france (prof a fontanet)
+correspondence to:
+dr sylvie van der werf, institut
+pasteur, national reference
+center for inﬂuenza viruses and
+unit of molecular genetics of
+rna viruses, 75015 paris, france
+sylvie.van-der-werf@pasteur.fr
+or
+dr benoit guery, service de
+gestion du risque infectieux,
+vigilances et infectiologie,
+hopital huriez, pavillon fourrier,
+59045 lille cedex, france
+bguery@invivo.edu
+for the munich/abu_
+dhabi/2012 sequence see
+http://www.virology-bonn.de/
+
+virological information for two related cases of mers-cov
+disease, after nosocomial transmission of the virus from
+one patient to another in a french hospital in april, 2013.
+
+methods
+patients and genetic analysis
+we report data for two patients who were admitted to
+hospital in april and may, 2013, in northern france.
+their medical records were compiled and reviewed by
+their attending physicians. spouses provided written
+informed consent for data and samples to be used for
+research and reporting purposes.
+we extracted rna from specimens from the upper
+(nasopharyngeal swabs) or the lower (bronchoalveolar
+lavage, sputum) respiratory tract and from whole
+blood, plasma, and serum specimens using the
+nucleospin dx virus or nucleospin rna blood mini
+kits (macherey-nagel gmbh & co kg, düren, france)
+according to the manufacturer’s instructions. for
+sputum, we applied a pretreatment with proteinase k
+(5 mg/ml for 10 min at 70°c) or digest-eur (eurobio,
+coutaboeuf, france) to reduce viscosity. we included
+sigma virus rna (10 ng per assay) as a control for the
+extraction procedure and the absence of inhibitors.
+we tested extracted nucleic acids by real-time rt-pcr
+assays targeting the upe, orf1a, or orf1b regions of the
+mers-cov genome as previously described15,16 on a
+lightcycler 480 real-time pcr system (roche,
+coutaboeuf, france). the quality of the specimens was
+
+april 23
+
+april 26
+
+april 29
+
+may 8
+
+may 15
+
+normal range
+
+leucocyte count
+(cells per μl)
+
+8740
+
+8980
+
+11 700
+
+11 800
+
+9180
+
+5500–15 500
+
+neutrophils (%)
+
+nd
+
+nd
+
+87
+
+nd
+
+nd
+
+23–45
+
+lymphocytes (%)
+
+nd
+
+nd
+
+7
+
+nd
+
+nd
+
+35–65
+
+platelet count
+(cells per μl)
+
+nd
+
+192 000
+
+309 000
+
+184 000
+
+55 000
+
+250 000–550 000
+
+creatinine (μmol/l)
+
+318·6
+
+300·8
+
+274
+
+220
+
+177
+
+40–130
+
+blood urea nitrogen
+(mmol/l)
+
+29·9
+
+27·7
+
+23·7
+
+41·6
+
+31·5
+
+1·2–3·3
+
+c-reactive protein
+(mg/l)
+
+152·30
+
+206·40
+
+163·60
+
+nd
+
+53
+
+<5
+
+o2 (l/min) or fio2 (%) 0
+
+5 l/min
+
+10 l/min
+
+80%
+
+70% fio2
+ecmo 50%
+
+··
+
+ph
+
+nd
+
+nd
+
+7·30
+
+7·45
+
+7·36
+
+7·38–7·42
+
+partial pressure of
+carbon dioxide
+(mm hg)
+
+nd
+
+nd
+
+23·50
+
+34
+
+37·6
+
+35–45
+
+partial pressure of
+oxygen (mm hg)
+
+nd
+
+nd
+
+59·40
+
+72
+
+79
+
+70–100
+
+bicarbonate (meq/l)
+
+nd
+
+nd
+
+11·30
+
+23·3
+
+20·9
+
+22–26
+
+blood cells
+
+serum
+
+arterial blood
+
+nd=not determined. fio2=fraction of inspired oxygen. ecmo=extracorporeal membrane oxygenation.
+
+table 1: haematological and blood chemical values for patient 1
+
+2266
+
+assessed by real-time rt-pcr targeting the gapdh
+house-keeping gene. positive control for orf1a and
+upe real-time rt-pcr was an in-vitro transcribed rna,
+combining the sequences of the orf1a gene (from
+nucleotide 11172 to nucleotide 11414) and the upe gene
+(from nucleotide 27357 to nucleotide 27670) as the positive
+strand, designed based on the ﬁrst published sequence of
+mers-cov.5 we did conﬁrmatory sequence analysis on
+the rdrp and n gene regions as described.15 we
+assembled sequences using clc main workbench 6.8.3
+software and aligned them with available mers-cov
+sequences: emc/2012 (genbank accession number
+jx869059), jordan-n3/2012 (kc776174), england-1/2012
+(kc164505), england/qatar/2013 (kc667074), england
+2/2012, and munich/abu_dhabi/2013.
+
+role of the funding source
+the sponsor of the study had no role in study design,
+data collection, data analysis, data interpretation, or
+writing of the report. as corresponding authors bg and
+svdw had full access to all data in the study and had ﬁnal
+responsibility for the decision to submit for publication.
+
+results
+patient 1, a 64-year-old man, visited dubai from april 9, to
+april 17, 2013. fever and chills with diarrhoea
+(three to four bowel movements per day) started on
+april 22. symptoms were much the same as those of a
+previous episode of sigmoiditis treated 6 months before.
+he also had a history of hypertension and diabetes, and
+had undergone renal transplantation in 1998, for renal
+failure secondary to diabetes. his existing treatments
+were mycophenolate mofetil, ciclosporin, and prednisone.
+he was admitted to the valenciennes hospital on april 23,
+presenting with diarrhoea and fever reaching 39°c,
+arterial pressure at 137/66 mm hg, and pulseoxymetric
+oxygen saturation of 96% on ambient air. at that time, he
+did not have any respiratory symptoms (cough or
+dyspnoea). chest radiograph was normal (not shown).
+table 1 summarises biological data for patient 1. blood
+cultures, stool analysis, urine antigen assays for
+legionella spp and pneumococcus spp, and plasma pcr
+for cytomegalovirus were negative. treatment with
+ceftriaxone was initiated on april 24.
+an abdominal ct scan done on april 24 did not show
+any evidence of colitis, but lower thoracic images showed
+major pulmonary inﬁltrates (ﬁgure 1a). on april 26, the
+patient developed dyspnoea and cough. levoﬂoxacin was
+added to ceftriaxone therapy. a ct scan of the lung was
+done on april 26, and showed a mostly peripheral
+interstitial inﬁltrate associated with right lower-lobe
+consolidation and left lower-lobe consolidation in the
+anterior basal, lateral basal, and posterior basal areas. a
+bronchoalveolar lavage was done and cytology showed a
+high number of neutrophils and macrophages. no
+speciﬁc pathogen was identiﬁed on direct microbiological examination of bronchoalveolar lavage ﬂuid, and
+www.thelancet.com vol 381 june 29, 2013
+
+articles
+
+co-trimoxazole was added to the antimicrobial treatment
+regimen. oxygen requirement increased daily to
+reach 10 l/min on april 29.
+patient 1 was transferred to the douai hospital
+intensive-care unit (icu) on april 29, where non-invasive
+mechanical ventilation was started, and antimicrobial
+therapy was modiﬁed to piperacilline plus tazobactam
+and linezolid. he had rapid respiratory deterioration, and
+was intubated on april 30 (ﬁgure 1b). respiratory failure
+was followed by shock and renal failure, leading to
+noradrenaline administration and continuous venovenous haemoﬁltration.
+on may 1, on the basis of the clinical presentation and
+the history of recent travel to dubai, the hypothesis of an
+infection with mres-cov was raised, prompting the
+transfer of nasopharyngeal and stored bronchoalveolar
+lavage samples to the national reference center in paris.
+further worsening of the respiratory status with a
+partial pressure of oxygen (pao2) to fraction of inspired
+oxygen (fio2) ratio of 100 despite low tidal volume and
+high-positive end expiratory pressure (peep) ventilation,
+inhaled nitric oxide, prone positioning, sedation, and
+neuromuscular blockade, prompted the implementation
+of extracorporeal membrane oxygenation (ecmo).
+persisting haemodynamic support with norepinephrine
+at 0·5 mg/h was necessary. the patient was transferred to
+the ecmo referral centre icu of lille university
+teaching hospital on may 8 (ﬁgure 1c). as of may 27, the
+patient remained under ecmo therapy because of
+persisting severe acute respiratory distress syndrome
+(ﬁgure 1d). at 100% fio2 on both ecmo and ventilator
+settings and with mean ecmo pump ﬂow of 5·2 l/min,
+resulting pao2 values did not exceed 80 mm hg. oxygen
+sweep ﬂow was 12 l/min, resulting in mean partial
+pressure of carbon dioxide values of about 38 mm hg.
+the patient had several haemorrhagic complications,
+contributing to renal failure and requirement for
+extrarenal epuration. no evidence of bacterial superinfection was noted before ecmo. endotracheal aspirates
+remained sterile. after the implantation of ecmo, the
+patient had candidemia with candida albicans and
+candida glabrata. empirical antifungal therapy with
+caspofungin had been started before ecmo. patient 1
+died on may 28, due to refractory multiple organ failure.
+patient 2, a 51-year-old man, was admitted to the
+valenciennes hospital on april 26, for left arm deep
+venous thrombosis. he lived in the north of france and
+had not recently travelled abroad. his medical history
+included myocardial infarction in 2005, arterial hypertension, dyslipidaemia, and histamine-induced angioedema, for which he had needed systemic corticosteroid
+therapy (prednisone 40 mg per day) since june, 2012. he
+also had several episodes of deep venous thrombosis
+associated with the presence of low concentrations of an
+anticardiolipin antibody, igm isotype, for which he was
+treated with a vitamin k antagonist. patient 2 shared
+patient 1’s room from april 26, to april 29. the room was
+www.thelancet.com vol 381 june 29, 2013
+
+a
+
+b
+
+c
+
+d
+
+figure 1: radiographs and ct scans of the chest of patient 1
+(a) ct scans of the chest obtained on april 24. substantial bilateral ground-glass opacity and consolidation can be
+seen. (b, c) chest radiographs. groundglass opacity and condensation, mainly on the lower right lobe, were noted
+on april 30 (b). bilateral ground-glass opacity and consolidation were noted on may 8 (c). (d) on may 17, the ct
+scan of the chest showed a bilateral consolidation of the lung.
+may 9
+
+may 12
+
+may 15
+
+normal range
+
+leucocyte count (cells per μl)
+
+7780
+
+2250
+
+3790
+
+5500–15 500
+
+neutrophils (%)
+
+nd
+
+86
+
+nd
+
+23–45
+
+lymphocytes (%)
+
+nd
+
+14
+
+nd
+
+35–65
+
+platelet count (cells per μl)
+
+154 000
+
+100 000
+
+64 000
+
+250 000–550 000
+
+blood cells
+
+serum
+creatinine (μmol/l)
+
+53
+
+53
+
+398
+
+40–130
+
+blood urea nitrogen (mmol/l)
+
+5
+
+6
+
+19·9
+
+1·2–3·3
+
+c-reactive protein (mg/l)
+
+217
+
+319
+
+237
+
+<5
+
+o2 (l/min) or fio2 (%)
+
+3 l/min
+
+5 l/min
+
+100% fio2
+ecmo 100%
+
+··
+
+ph
+
+7·48
+
+7·38–7·42
+
+arterial blood
+
+7·49
+
+7·29
+
+partial pressure of carbon dioxide (mm hg) 31
+
+30
+
+42·5
+
+35–45
+
+partial pressure of oxygen (mm hg)
+
+56
+
+58
+
+123
+
+70–100
+
+bicarbonate (meq/l)
+
+23
+
+22·4
+
+19·6
+
+22–26
+
+nd=not determined. fio2=fraction of inspired oxygen. ecmo=extracorporeal membrane oxygenation.
+
+table 2: haematological and blood chemical values for patient 2
+
+20 m², and 1·5 m separated the two patients’ beds. both
+patients shared the same bathroom. during this
+3-day period, patient 1 remained mostly conﬁned to his
+bed, whereas patient 2 was able to move around. no
+nebulisers or known aerosol-generating procedures were
+used for patient 1. because the diagnosis of mers-cov
+2267
+
+articles
+
+infection was not suspected, patient 1 wore no mask, and
+neither patient 2, nor staﬀ nor visitors used protective
+equipment. patient 2 was discharged from the hospital to
+his home on april 30.
+on may 8, patient 2 presented with asthenia, myalgia,
+and cough. on may 9, he was rapidly directed to the
+infectious diseases department of lille university
+teaching hospital, since by that time he was a known
+contact of a conﬁrmed case (positive results for
+mers-cov were available for patient 1 on may 7). on
+admission, he presented with fever (38°c), pulseoxymetric
+saturation of 95% on ambient air, and a respiratory rate
+of 15 breaths per min.
+table 2 summarises biological data for patient 2. chest
+radiograph showed upper right lobe consolidation
+(ﬁgure 2a). oxygen therapy at 3 l/min and piperacillin
+plus tazobactam were started on april 30. the initial
+nasopharyngeal sample was inconclusive. the patient
+remained stable but with a high fever (39–40°c) between
+may 9 and may 12. linezolid was added to the antimicrobial
+regimen on may 11. diagnosis of mers-cov infection was
+conﬁrmed on the basis of results from induced sputum
+analysis on may 11. personal protective equipment—
+an ffp2 mask, gloves, gown, and goggles—was used to
+prevent secondary transmission during sputum induction.
+on may 12, the patient had acute respiratory failure,
+and oxygen therapy was increased to 5 l/min. chest
+radiograph showed complete consolidation of the right
+lung and involvement of the lower left lobe (ﬁgure 2b).
+a
+
+b
+
+the patient was transferred to the icu where oxygen
+therapy was progressively increased. appearance of confusion, disorientation, and increasing hypoxaemia led to
+intubation and mechanical ventilation on may 13.
+bronchoalveolar lavage was done, and no speciﬁc
+pathogen was identiﬁed, either on direct microbiological
+examination or culture. this sample was not tested for
+mers-cov, because the diagnosis had already been
+conﬁrmed. after intubation, on the same day, fio2 was
+increased to 1; inhaled nitric oxide and prone positioning became necessary. after intubation, dobutamine was
+introduced for biventricular dysfunction—conﬁrmed
+by transthoracic echocardiogram—and progressively
+weaned over the next 48 h. acute renal failure and
+anuria, despite volume expansion, resulted in haemodialysis on may 14. on may 14, pao2 to fio2 ratio was 90,
+despite inhaled nitric oxide, prone positioning, and low
+tidal volume and high peep ventilation, leading to
+implementation of ecmo. neither norepinephrine nor
+dobutamine treatment were underway on the day of
+ecmo implantation. chest radiograph showed bilateral
+diﬀuse alveolar-interstitial inﬁltrates on may 15
+(ﬁgure 2c). the chest radiograph also showed bilateral
+ground-glass opacities with major consolidation
+(ﬁgure 2d). no bacterial superinfection was identiﬁed
+before ecmo. patient 2’s respiratory status has
+improved since may 26, with fio2 at 70% on both
+ventilator and ecmo settings, ecmo ﬂow at 5·2 l/min,
+and ecmo oxygen sweep ﬂow at 5 l/min. sedation is
+being progressively weaned.
+on may 2, the national inﬂuenza center at the institut
+pasteur was notiﬁed by the french institute for public
+health surveillance of a possible case of infection with
+mers-cov. a nasopharyngeal swab obtained from
+patient 1 on april 30, analysed by real-time rt-pcr, was
+specimen type
+
+gene
+upe (ct)
+
+orf1a (ct)
+
+patient 1
+
+c
+
+d
+
+april 26
+
+bal*
+
+22·9
+
+24
+
+april 30
+
+np
+
+40
+
+40
+
+april 30
+
+np†
+
+37·2
+
+40
+
+may 7
+
+sp‡
+
+28·8
+
+27·2
+
+may 7
+
+wb
+
+35·9
+
+35·2
+
+may 9
+
+p
+
+40
+
+38·8
+
+patient 2
+
+figure 2: radiographs of the chest of patient 2
+(a) chest radiograph obtained on may 9 showed a systematic consolidation of the upper right lung lobe. (b) on
+may 12, ground-glass opacity and consolidation could also be seen in the lower left lobe. bilateral ground-glass
+opacities and consolidation were noted afterwards on may 15 (c) and may 17 (d).
+
+2268
+
+may 9
+
+npa
+
+37
+
+40
+
+may 9
+
+npb
+
+37·4
+
+negative
+
+may 11
+
+sp*
+
+22·5
+
+23·9
+
+may 11
+
+np
+
+inconclusive
+
+inconclusive
+
+ct=cycle threshold. bal=bronchoalveolar lavage. np=nasopharyngeal swab.
+sp=sputum. nps=nasopharyngeal swab. wb=whole blood. p=plasma.
+*specimens on which sequencing was done (appendix). †retest. ‡specimen from
+which an isolate was obtained.
+
+table 3: genetic analysis of specimens
+
+www.thelancet.com vol 381 june 29, 2013
+
+articles
+
+deemed negative (table 3). in view of the deterioration of
+his respiratory status, the patient remained classiﬁed as a
+possible case, awaiting the analysis of a bronchoalveolar
+lavage specimen obtained on april 26. because of sample
+transportation issues, this specimen was received on
+may 7, and was shown to be positive by rt-pcr for both
+the upe and orf1a targets with cycle threshold (ct) values
+of 22·9 for upe and 24 for orf1a (table 3), thus conﬁrming
+the case. parallel retesting of the april 30 nasopharyngeal
+swab resulted in ct values of 37·2 for upe and 40 for
+orf1a. a sputum sample obtained on may 7 was strongly
+positive (ct <29) by rt-pcr for both targets, which
+further conﬁrmed the diagnosis (table 3).
+for patient 2, two nasal swabs obtained on may 9 both
+showed ct values of about 37 at the detection limit of the
+rt-pcr for the upe target but were negative for the
+orf1a target, casting serious doubts on the possibility of
+infection by the mers-cov. the diagnosis was subsequently conﬁrmed on the basis of the analysis by the
+cellule d’intervention biologique d’urgence of an
+induced sputum sample from may 11: rt-pcr analysis
+showed ct values of 22·5 for upe, and 23·9 for orf1a
+(table 3), and of 25·6 for orf1b. a nasopharyngeal swab
+from the same day gave inconclusive results.
+preliminary results of rt-pcr done on blood
+specimens from patient 1 on may 9 were positive for
+mers-cov in whole blood; weak but inconsistent
+detection was noted in plasma samples (table 3). no
+other types of specimens were analysed for either patient
+in this timeframe.
+virus isolation on vero e6 (african green monkey
+kidney) cells was attempted from all respiratory
+specimens from both patients and an isolate was
+obtained from the sputum of patient 1. preliminary
+analysis of serum samples from patient 1 from may 7 and
+may 9 shows reactivity in western blot with a recombinant
+n protein (data not shown).
+conﬁrmatory sequence analysis of the rdrp and n gene
+segments was done directly on rna extracted from the
+bronchoalveolar lavage specimen from patient 1 and
+sputum specimen from patient 2. the sequences from
+both patients were identical. the rdrp sequences showed
+the c→t polymorphism at position 15196, which distinguishes all available sequences from that of the emc/2012
+isolate.5 for the n gene, sequences were identical to that of
+the emc isolate and did not show the short deletion
+(nucleotides 29736–29741) nor any of the polymorphisms
+recorded at positions 29714 (a→t) and 29723 (g→t) in
+the england/qatar/2012 sequence, nor that found at
+position 29811 (c→t) in the jordan-n3/2012 sequence
+(appendix).5,15,17 these results deﬁnitively establish that
+both patients were infected with mers-cov.
+
+discussion
+this report describes the ﬁrst two french cases of
+mers-cov infection with a case of patient-to-patient
+nosocomial transmission (panel). our ﬁndings suggest
+www.thelancet.com vol 381 june 29, 2013
+
+that the virus’s incubation period could reach 9–12 days,
+a longer period than what was previously recorded, with
+clinical implications for the duration of quarantine. our
+results also suggest that the best samples to detect the
+virus are those from the lower respiratory tract, rather
+than nasopharyngeal samples.
+the two cases we report show very similar clinical
+features compared with the only two other cases for which
+detailed clinical descriptions are available;3,4 other reports
+do not have complete clinical data. initial presentation
+included fever, chills, and myalgia. respiratory symptoms
+with cough and dyspnoea soon became the predominant
+clinical symptoms, with a rapid deterioration of oxygenation and increasing oxygen requirements, leading to
+mechanical ventilation and ecmo. later in the course of
+disease, and soon after icu admission, severe renal
+failure with anuria needing renal replacement therapy
+developed. lymphopenia was another common feature in
+our two patients, also noted in the report by zaki and
+colleagues.3 such a clinical presentation is reminiscent of
+that of patients with severe sars, except that acute renal
+failure seemed less common in sars cases. in fact,
+sars-cov was associated with a wide spectrum of clinical
+features—infected people presented initially with fever,
+myalgia, chills, and rigor and subsequently developed
+pneumonia.14,18 notably, patient 1 had diarrhoea among
+initial symptoms, a feature not yet reported in patients
+with mers-cov, but present upon admission in a quarter
+of patients with sars.19 patient 1 died on may 28, and
+patient 2 remains in the icu under ecmo. the casefatality rate in patients infected with mers-cov is high—
+it is estimated to be 50% in the 44 patients reported so far
+by who.8 this rate is higher than that of sars, estimated
+at 15%, and strongly age-dependant.14 whether this rate
+is higher for patients with mers-cov because of
+panel: research in context
+systematic review
+we searched pubmed on may 25, 2013, with the terms
+“hcov-emc” and “mers-cov” for articles published in
+english. our search identiﬁed 24 reports linked to hcov-emc,
+starting with the initial report from zaki and colleagues3
+describing a previously unknown coronavirus isolated from
+the sputum of a 60-year-old man. articles relevant to our
+paper are cited in the text. the search with “mers-cov”
+identiﬁed four articles, none of which were related to human
+transmission or clinical ﬁndings.
+interpretation
+our report provides evidence that patients with respiratory
+symptoms and a history of travel to the middle east or
+contact with a known mers-cov case in the past 12 days
+should be isolated and investigated using lower respiratory
+tract samples. our ﬁndings also suggest that
+immunosuppression is an aggravating factor, and could be
+associated with atypical clinical presentation.
+
+see online for appendix
+
+2269
+
+articles
+
+patient 1
+admission in valenciennes
+pneumonia diagnosis
+bal+
+transfer to douai icu
+np+/–
+
+sp+
+ecmo and transfer to lille icu
+
+exposure
+22 23 24 25 26 27 28 29 30
+april, 2013
+
+1 2 3
+may, 2013
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 14
+ecmo
+
+transfer to
+lille icu
+
+sp+
+np inc
+
+discharge home
+admission in valenciennes
+patient 2
+
+admitted for pneumonia
+in lille infectious diseases
+department
+np+/–
+first onset of
+clinical symptoms
+
+figure 3: timeline of pertinent exposure, dates of illness, and virological ﬁndings in patients 1 and 2
+exposure (bold red line) shows the period during which the two patients shared the same room.
+bal=bronchoalveolar lavage. np=nasopharyngeal swab. sp=sputum. inc=inconclusive. ecmo=extracorporeal
+membrane oxygenation. icu=intensive-care unit.
+
+underreporting of milder forms of disease, a higher
+proportion of patients with underlying immunosuppressive disorders, as in our patients, or higher virulence
+of mers-cov compared with sars-cov has yet to
+be established.
+for the two patients described here, mers-cov was
+detected at the time of the diagnosis of pneumonia.
+the data we have obtained so far show identical
+sequences for the viruses infecting both patients, and
+this sequence is also identical to most of the available reported mers-cov sequences. whole genome
+sequencing and analysis of viral population diversities
+will be needed to further establish the degree of variability
+of the viruses of the french cases relative to previous
+cases and to work out the relatedness of the viruses of the
+two patients upon transmission.
+viral load was high in samples obtained from the lower
+respiratory tract, whereas the virus was almost undetectable in upper respiratory tract samples. besides our two
+cases, available data for conﬁrmed patients have shown
+positive detection by rt-pcr in upper respiratory tract
+specimens on days 4, 12, 13, and 144,10,20 after symptom
+onset, and in lower respiratory tract specimens on days 8,
+17, and 194,20 after symptom onset. a sputum sample
+taken 7 days after symptom onset has also been reported
+as having led to virus isolation.3 notably, for patient 2, as
+for the london case reported in september, 2012, nasal
+and throat swabs were negative at the time at which
+sputum samples were positive.4
+the little information available for virus shedding up
+to now is reminiscent of sars-cov, for which overall
+the virus was detected by rt-pcr in 76% of lower
+respiratory tract clinical samples, versus 37% of upper
+respiratory tract samples,21 and viral load was signiﬁcantly
+2270
+
+higher in the lower respiratory tract compared with the
+upper respiratory tract. in the upper respiratory tract,
+the rate of viral shedding was initially low and increased
+to peak at around day 15.22 whether mers-cov is
+present outside the respiratory tract will require
+additional studies. so far, there have been no reports of
+virus detection in stool or urine, and our preliminary
+data suggest that the virus might be present in blood.
+for sars, the virus was readily detected in stool samples
+and more frequently after 10 days from onset of
+symptoms, whereas in blood samples detection was
+more frequent during the early course of illness.21
+although additional data for the kinetics and routes of
+viral shedding are needed for mers-cov, initial data
+suggest that for possible or suspect cases, especially
+when presenting early after the onset of symptoms,
+clinical samples from the lower respiratory tract should
+be obtained for conﬁrmation of infection. conﬁrmation
+of an initially negative result on another sample taken a
+few days later should be recommended before exclusion
+of possible cases.
+patient 2 was admitted on april 26, at a time when
+pneumonia was already present in patient 1 and
+mers-cov was present in the bronchoalveolar lavage
+sample taken on the same day (although this result was
+not available at the time). for the next 3 days, the two
+patients shared the same room with no speciﬁc isolation
+measures other than standard precautions. 9–12 days after
+this exposure, patient 2 developed symptoms suggestive
+of lower respiratory tract infection (ﬁgure 3). in patient 2,
+infection with mers-cov was conﬁrmed 2 days later on
+an induced sputum sample. this timeframe is at the high
+end of the 1–9 day incubation period reported in the two
+secondary cases from the uk10 and of the 2–10 day
+incubation period of sars.23 in view of the very small
+number of patients for whom a well-deﬁned window of
+exposure for mers-cov is available, this ﬁnding of
+human-to-human transmission through exposure during
+the upper range of reported incubation periods suggests
+that incubation periods beyond 10 days might be possible
+with mers-cov, with important implications for the
+duration of the quarantine needed to rule out infection in
+contacts. furthermore, patient 2 had not recently travelled
+abroad, excluding any other source of contamination.
+however, the exact route of transmission from patient 1 to
+patient 2 remains unclear. nosocomial transmission of
+mers-cov has been suspected in patients and health-care
+workers with respiratory symptoms in jordan in april,
+2012, and in an ongoing hospital outbreak with more than
+20 cases in saudi arabia.24 person-to-person transmission
+was further documented from one patient to two family
+members in the uk10 and for two cases reported in
+tunisia.8 as for sars-cov, transmission through large
+respiratory droplets is currently thought to be the most
+likely route of mers-cov transmission between the two
+patients we describe. no aerosol-generating procedures
+were used with patient 1. the presence of diarrhoea in
+www.thelancet.com vol 381 june 29, 2013
+
+articles
+
+patient 1, possibly linked to mers-cov infection as
+previously described with sars-cov,25 might also have
+been a potential source of contamination of the environment. systematic detection of mers-cov in stools of
+future patients might be important to document shedding
+of the virus through faeces and its potential contribution
+to viral transmission. during the hospital stay in
+valenciennes, no personal protective equipment was
+used, and we did not record any secondary transmission
+in more than 100 health-care workers assessed for the
+development of symptoms or tested by rt-pcr for the
+presence of mers-cov (unpublished). similarly, patient 2
+was discharged from the hospital to his home and, up to
+now, no secondary cases have been detected in some
+40 contacts. low virus shedding in the upper respiratory
+tract might contribute to reduced transmissibility,
+although serological investigations will be needed to better
+assess the extent of transmission. the underlying disorder
+and immunosuppressive treatment of the two patients
+probably contributed to their increased susceptibility to
+the infection, and such background should be added to
+the list of criteria associated with increased suspicion of
+mers-cov infection. the risk that on acquisition of
+mutations mers-cov might become increasingly
+transmissible between human beings must also be kept in
+mind and continuously assessed as suggested.26
+contributors
+bg, af, and svdw jointly wrote the report. bg, jp, lem, cs, ne, xl,
+fv, and dm were involved in the treatment of patients 1 and 2 and the
+clinical management of their contacts. ag, sb, ve, vc, jcm, and svdw
+were involved in the laboratory testing and interpretation of results from
+specimens. ve and svdw did the analysis of the viral sequences. am
+and dc were involved in the epidemiological investigation. all other
+contributors of the mers-cov study team participated in the treatment
+of patients 1 and 2, the clinical management of their contacts, the
+epidemiological investigation, and virological analyses. all coauthors
+provided comments and approved the ﬁnal version of the report.
+mers-cov study group
+france: d caparros (pneumologie, clinique tessier, valenciennes);
+l vrigneaud, d labatut, t quemeneur (néphrologie, valenciennes);
+a-a cracco (hygiene, valenciennes); a guaguere, c rousselin,
+e lefebvre, p morel, b kowalski (réanimation, douai); t coppin
+(chirurgie vasculaire, douai); k faure, e senneville, h melliez (maladies
+infectieuses, lille, tourcoing); r joly, p goldstein (samu, lille);
+a vincentelli, n rousse (chirurgie cardio-vasculaire, lille); r favory,
+a palud, e parmentier-decrucq, m kauv (réanimation, lille);
+m benassaya, d briand, m lazzerini, c socratous (national reference
+center, institut pasteur, paris); f fichenick, (cibu, institut pasteur,
+paris); j riou (institut pasteur, paris); k blanckaert (antenne régionale
+cclin, lille); p chaud, m-c paty (invs, lille), j-p legendre,
+s segovia-kueny (agence régionale de santé nord pas de calais, lille).
+conﬂicts of interest
+we declare that we have no conﬂicts of interest.
+acknowledgments
+the national reference center for inﬂuenza viruses and the cibu are
+supported in part by funds from the french institute for public health
+surveillance (institut de veille sanitaire, invs). work related to
+collection of data, implementation of the assays, and sequencing was
+done with funds from anr grant labex integrative biology of
+emerging infectious diseases (ibeid, grant number anr-10-labx-62ibeid from the french government’s investissement d’avenir
+programme) and from the european community’s seventh framework
+programme (fp7/2007–2013) under the project emperie (european
+
+www.thelancet.com vol 381 june 29, 2013
+
+community grant agreement number 223498) and under the project
+predemics (grant agreement number 278433). we thank the nurses
+and all health-care workers from the hospitals in valenciennes, douai,
+and lille who, in this crisis situation, took care of the patients and
+controlled the spread of this disease. we thank p despres, s paulous,
+and m p frenkiel (unit of flavivirus-host molecular interactions,
+institut pasteur) for preliminary serological analyses. we thank
+eric kipnis for editing of the report.
+references
+1
+perlman s, netland j. coronaviruses post-sars: update on
+replication and pathogenesis. nat rev microbiol 2009; 7: 439–50.
+2
+van der hoek l. human coronaviruses: what do they cause?
+antivir ther (lond) 2007; 12: 651–58.
+3
+zaki am, van boheemen s, bestebroer tm, osterhaus adme,
+fouchier ram. isolation of a novel coronavirus from a man with
+pneumonia in saudi arabia. n engl j med 2012; 367: 1814–20.
+4
+bermingham a, chand ma, brown cs, et al. severe respiratory
+illness caused by a novel coronavirus, in a patient transferred to the
+united kingdom from the middle east, september 2012.
+euro surveill 2012; 17: 20290.
+5
+van boheemen s, de graaf m, lauber c, et al. genomic
+characterization of a newly discovered coronavirus associated with
+acute respiratory distress syndrome in humans. mbio 2012;
+3: e00473–12.
+6
+annan a, baldwin hj, corman vm, et al. human betacoronavirus
+2c emc/2012-related viruses in bats, ghana and europe.
+emerg infect dis 2013; 19: 456–59.
+7
+who. novel coronavirus infection—update may 15, 2013.
+http://www.who.int/csr/don/2013_05_15_ncov/en/index.html
+(accessed may 17, 2013).
+8
+who. novel coronavirus infection—update may 22, 2013.
+http://www.who.int/csr/don/2013_05_22_ncov/en/index.html
+(accessed may 27, 2013).
+9
+who. novel coronavirus infection—update may 23, 2013.
+http://www.who.int/csr/don/2013_05_23_ncov/en/index.html
+(accessed may 28, 2013).
+10 health protection agency (hpa) uk novel coronavirus
+investigation team. evidence of person-to-person transmission
+within a family cluster of novel coronavirus infections,
+united kingdom, february 2013. euro surveill 2013; 18: 20427.
+11 gulland a. two cases of novel coronavirus are conﬁrmed in france.
+bmj 2013; 346: f3114.
+12 who. novel coronavirus summary and literature—update april 25,
+2013. http://www.who.int/csr/disease/coronavirus_infections/
+update_20130425/en/index.html (accessed may 19, 2013).
+13 de groot rj, baker sc, baric rs, et al. middle east respiratory
+syndrome coronavirus (mers-cov): announcement of the
+coronavirus study group. j virol 2013; published online may 15.
+doi:10.1128/jvi.01244-13.
+14 peiris jsm, guan y, yuen ky. severe acute respiratory syndrome.
+nat med 2004; 10: s88–97.
+15 corman vm, müller ma, costabel u, et al. assays for laboratory
+conﬁrmation of novel human coronavirus (hcov-emc) infections.
+euro surveill 2012; 17: 20334.
+16 corman vm, eckerle i, bleicker t, et al. detection of a novel human
+coronavirus by real-time reverse-transcription polymerase chain
+reaction. euro surveill 2012; 17: 20285.
+17 cotten m, lam tt, watson sj, et al. full-genome deep sequencing
+and phylogenetic analysis of novel human betacoronavirus.
+emerg infect dis 2013; 19: 736–42.
+18 gomersall cd, joynt gm, lam p, et al. short-term outcome of
+critically ill patients with severe acute respiratory syndrome.
+intensive care med 2004; 30: 381–87.
+19 booth cm, matukas lm, tomlinson ga, et al. clinical features and
+short-term outcomes of 144 patients with sars in the greater
+toronto area. jama 2003; 289: 2801–09.
+20 buchholz u, müller ma, nitsche a, et al. contact investigation of a
+case of human novel coronavirus infection treated in a german
+hospital, october-november 2012. euro surveill 2013; 18: 20406.
+21 cheng pkc, wong da, tong lkl, et al. viral shedding patterns of
+coronavirus in patients with probable severe acute respiratory
+syndrome. lancet 2004; 363: 1699–700.
+
+2271
+
+articles
+
+22
+
+23
+
+24
+
+2272
+
+peiris jsm, chu cm, cheng vcc, et al. clinical progression and
+viral load in a community outbreak of coronavirus-associated sars
+pneumonia: a prospective study. lancet 2003; 361: 1767–72.
+lessler j, reich ng, brookmeyer r, perl tm, nelson ke,
+cummings dat. incubation periods of acute respiratory viral
+infections: a systematic review. lancet infect dis 2009; 9: 291–300.
+who. novel coronavirus summary and literature—update may 17,
+2013. http://www.who.int/csr/disease/coronavirus_infections/
+update_20130517/en/index.html (accessed may 17, 2013).
+
+25
+26
+
+peiris jsm, yuen ky, osterhaus adme, stöhr k. the severe acute
+respiratory syndrome. n engl j med 2003; 349: 2431–41.
+mccloskey b, zumla a, stephens g, heymann dl, memish za.
+applying lessons from sars to a newly identiﬁed coronavirus.
+lancet infect dis 2013; 13: 384–85.
+
+www.thelancet.com vol 381 june 29, 2013
+
+

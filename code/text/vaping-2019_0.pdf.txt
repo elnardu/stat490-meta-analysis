@@ -1,0 +1,1410 @@
+the
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+original article
+
+pulmonary illness related to
+e-cigarette use in illinois and wisconsin —
+preliminary report
+jennifer e. layden, m.d., ph.d., isaac ghinai, m.b., b.s., ian pray, ph.d.,
+anne kimball, m.d., mark layer, m.d., mark tenforde, m.d., ph.d.,
+livia navon, m.s., brooke hoots, ph.d., phillip p. salvatore, ph.d.,
+megan elderbrook, m.p.h., thomas haupt, m.s., jeffrey kanne, m.d.,
+megan t. patel, m.p.h., lori saathoff‑huber, m.p.h.,
+brian a. king, ph.d., m.p.h., josh g. schier, m.d.,
+christina a. mikosz, m.d., m.p.h., and jonathan meiman, m.d.​​
+
+a bs t r ac t
+background
+
+e-cigarettes are battery-operated devices that heat a liquid and deliver an aerosolized product to the user. pulmonary illnesses related to e-cigarette use have been
+reported, but no large series has been described. in july 2019, the wisconsin department of health services and the illinois department of public health received
+reports of pulmonary disease associated with the use of e-cigarettes (also called
+vaping) and launched a coordinated public health investigation.
+methods
+
+we defined case patients as persons who reported use of e-cigarette devices and
+related products in the 90 days before symptom onset and had pulmonary infiltrates
+on imaging and whose illnesses were not attributed to other causes. medical record
+abstraction and case patient interviews were conducted with the use of standardized tools.
+results
+
+there were 53 case patients, 83% of whom were male; the median age of the patients
+was 19 years. the majority of patients presented with respiratory symptoms (98%),
+gastrointestinal symptoms (81%), and constitutional symptoms (100%). all case patients had bilateral infiltrates on chest imaging (which was part of the case definition).
+a total of 94% of the patients were hospitalized, 32% underwent intubation and
+mechanical ventilation, and one death was reported. a total of 84% of the patients
+reported having used tetrahydrocannabinol products in e-cigarette devices, although
+a wide variety of products and devices was reported. syndromic surveillance data
+from illinois showed that the mean monthly rate of visits related to severe respiratory
+illness in june through august of 2019 was twice the rate that was observed in the
+same months in 2018.
+conclusions
+
+from the illinois department of public
+health (j.e.l., i.g., l.n., m.t.p., l.s.-h.),
+springfield; the epidemic intelligence
+service, center for surveillance, epidemiology, and laboratory services (i.g.,
+i.p., a.k., m.t., p.p.s.), national center
+for environmental health (m.l.), the division of state and local readiness, center for preparedness and response
+(l.n.), the division of unintentional injury prevention, national center for injury prevention and control (b.h., j.g.s.,
+c.a.m.), and the office on smoking and
+health, national center for chronic disease prevention and health promotion
+(b.a.k.), centers for disease control and
+prevention, and emory university school
+of medicine (m.l.) — all in atlanta; the
+wisconsin department of health services
+(i.p., m.e., j.m.), the wisconsin division
+of public health, bureau of communicable disease (t.h.), and the department
+of radiology, university of wisconsin
+school of medicine and public health
+(j.k.) — all in madison. address reprint
+requests to dr. layden at the illinois department of public health, 69 w. washington st., chicago, il 60602, or at
+­jennifer​.­layden@​­illinois​.­gov.
+this article was published on september 6,
+2019, and updated on september 16, 2019,
+at nejm.org.
+doi: 10.1056/nejmoa1911614
+copyright © 2019 massachusetts medical society.
+
+case patients presented with similar clinical characteristics. although the features of
+e-cigarette use that were responsible for injury have not been identified, this cluster
+of illnesses represents an emerging clinical syndrome or syndromes. additional work
+is needed to characterize the pathophysiology and to identify the definitive causes.
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+1
+
+the
+
+n e w e ng l a n d j o u r na l
+
+e
+
+lectronic cigarettes, or e-cigarettes, include a diverse group of batterypowered devices that allow users to inhale
+aerosolized substances.1 e-cigarette aerosol generally contains fewer toxic chemicals than conventional cigarette smoke.2 however, e-cigarette
+aerosol is not harmless; it can expose users to
+substances known to have adverse health effects,
+including ultra-fine particles, heavy metals, volatile organic compounds, and other harmful ingredients.2,3 e-cigarettes are commonly used to inhale
+nicotine but can also be used to deliver substances such as tetrahydrocannabinol (thc), cannabidiol (cbd), and butane hash oils (also known as
+dabs).4 e-cigarettes entered the u.s. marketplace
+table 1. outbreak surveillance case definitions of severe pulmonary disease
+associated with e-cigarette use — august 30, 2019.*
+confirmed case
+use of an e-cigarette (vaping) or dabbing in 90 days before symptom onset;
+and
+pulmonary infiltrate, such as opacities on plain-film radiograph of the chest
+or ground-glass opacities on chest ct; and
+absence of pulmonary infection on initial workup: the minimum criteria include negative respiratory viral panel and influenza pcr or rapid test if local
+epidemiology supports testing. all other clinically indicated testing for respiratory infectious disease (e.g., urine antigen testing for streptococcus pneumoniae and legionella, sputum culture if productive cough, bronchoalveolarlavage culture if done, blood culture, and presence of hiv-related opportunistic respiratory infections if appropriate) must be negative; and
+no evidence in medical record of alternative plausible diagnoses (e.g., cardiac,
+rheumatologic, or neoplastic process)
+probable case
+using an e-cigarette (vaping) or dabbing in 90 days before symptom onset;
+and
+pulmonary infiltrate, such as opacities on plain film chest radiograph or
+ground-glass opacities on chest ct; and
+infection identified by means of culture or pcr, but the clinical team caring
+for the patient believes that this is not the sole cause of the underlying respiratory disease process; or as the minimum criteria, to rule out pulmonary infection not met (testing not performed) and clinical team caring for the patient believes that this is not the sole cause of the underlying respiratory disease process; and
+no evidence in medical record of alternative plausible diagnoses (e.g., cardiac,
+rheumatologic, or neoplastic process)
+*	these surveillance case definitions are from the centers for disease control
+and prevention and are meant for surveillance purposes and not for clinical
+diagnosis. they are subject to change and will be updated as additional information becomes available, if needed. vaping was defined as the use of an
+electronic device (e.g., electronic nicotine-delivery system, electronic cigarette,
+e-cigarette, vaporizer, vapes, vape pen, dab pen, or other device) or dabbing
+(superheating in the device for inhaling substances such as nicotine, marijuana, tetrahydrocannabinol [thc], thc concentrates, cannabidiol [cbd], synthetic cannabinoids, and flavorings). hiv denotes human immunodeficiency
+virus, and pcr polymerase chain reaction.
+
+2
+
+of
+
+m e dic i n e
+
+around 2007 and since 2014 have been the most
+commonly used tobacco product among youths
+in the united states.1 during the 2017–2018 period,
+the prevalence of current use of e-cigarettes (also
+called vaping) increased from 11.7% to 20.8%
+among u.s. high school students.5 in contrast,
+3.2% of u.s. adults reported current e-cigarette
+use in 2018.6
+published case reports have detailed a range
+of severe pulmonary illnesses among persons
+who have reported use of nicotine or cannabis
+extracts in e-cigarettes.7-13 no previous case series, however, has described large clusters of
+temporally related pulmonary illnesses linked to
+the use of e-cigarette products (e.g., devices,
+liquids, refillable pods, and cartridges).
+during july 2019, the wisconsin department
+of health services (wdhs) and the illinois department of public health (idph) received multiple reports of pulmonary disease of unclear
+cause that was possibly associated with the use of
+e-cigarettes and related products, which prompted a coordinated public health investigation. as
+of august 27, 2019, a total of 53 cases meeting
+the established case definitions (table 1) have been
+reported by clinicians in wisconsin (28 cases) and
+illinois (25 cases). similar cases have been reported in at least 25 states, and the centers for
+disease control and prevention (cdc) is coordinating a public health response in multiple states.
+in this article, we summarize the clinical characteristics and use of e-cigarettes and related
+products reported among the initial 53 case patients in wisconsin and illinois who were identified as being part of this pulmonary disease
+cluster.
+
+me thods
+outbreak identification
+
+on july 10, 2019, the children’s hospital of wisconsin notified the wdhs of five previously
+healthy adolescents who had been admitted during the previous 30 days with progressive dyspnea, fatigue, and hypoxemia. two patients underwent intubation and mechanical ventilation.
+computed tomography (ct) of the chest in four
+patients revealed bilateral ground-glass opacities, predominantly in the lower lobes. extensive
+infectious, rheumatologic, and oncologic workups were unrevealing. all patients reported a
+history of e-cigarette use in the days or weeks
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+before symptom onset. this report is part of an
+ongoing public health investigation.
+on july 25, the wdhs issued an alert to clinicians describing the clinical syndrome and requested that similar cases of pulmonary disease
+associated with e-cigarette use be reported to
+public health authorities. the wdhs was subsequently contacted by a physician in illinois seeking clinical treatment guidance for a patient with
+similar clinical presentation and e-cigarette product exposure, and the wdhs promptly notified
+the idph on july 31. a joint wdhs–idph public
+health investigation was initiated on august 1 to
+identify additional case patients and to characterize the pulmonary clinical syndrome related to
+the use of e-cigarettes and related products. the
+cdc was consulted for technical assistance early
+in the investigation, and a cdc epidemiologic assistance field team (epi-aid) was deployed to the
+wdhs and idph on august 20, 2019.
+case definition
+
+an outbreak case definition was initially developed by the wdhs and idph and was further
+refined in coordination with the cdc and the
+council for state and territorial epidemiologists.
+table 1 provides specific details of the probable
+and confirmed case definitions. all cases described in this article were classified according
+to and met the current working outbreak definitions of confirmed or probable cases that has
+been mutually accepted by the cdc and the jurisdictions that had been affected earliest in the
+outbreak (table 1).
+epidemiologic investigation
+
+the wdhs and idph released their first health
+alert notices on july 25 and august 2, respectively,
+to inform clinicians of the initial cases and to
+request reporting of possible cases to their local
+health departments. medical records were requested for all patients with reported cases. a standardized medical record abstraction form was developed in research electronic data capture software
+(redcap, vanderbilt university) to systematically collect demographic data on the case patients, the signs and symptoms at presentation,
+laboratory results, imaging findings, reported
+drug exposures, clinical course, treatments, and
+medical outcomes. infectious disease and pulmonary consultations and discharge notes were
+reviewed to determine whether causes other than
+
+vaping were potentially responsible for the clinical syndrome. medical charts were reviewed by a
+group of clinicians from the investigative teams
+(six of the authors) with at least two reviewers for
+each chart, and discrepancies between reviewers
+were adjudicated by means of consensus. a standardized interview was administered to case patients to characterize the use of e-cigarettes and
+related products in the 3 months before symptom onset. information regarding such use came
+from clinical documentation and interviews with
+patients.
+syndromic surveillance
+
+to assess whether this cluster represented an
+increase in severe respiratory illness, the idph
+established a baseline rate of severe unexplained
+respiratory illness by using a syndromic surveillance definition (in contrast to a working outbreak disease-specific case definition). syndromic
+surveillance monitors near-real-time prediagnostic data sources (largely from emergency department [ed] visits) to provide early detection of
+potential public health threats by means of validated algorithms.14 data from the national syndromic surveillance program15 were searched with
+the use of the electronic surveillance system for
+the early notification of community-based epidemics (essence) tool, which includes information on vital signs, reported symptoms, ed
+discharge destination, and diagnosis.15
+all ed visits between january 1, 2018, and
+august 15, 2019, among persons 14 to 30 years of
+age were searched in order to identify encounters
+for severe unexplained respiratory illness (defined
+in table s2 in the supplementary appendix, available with the full text of this article at nejm.org);
+searches were limited to counties in illinois where
+cases had already been identified. the syndromic
+definition was designed to capture data on patients who had presented to eds in illinois with
+severe respiratory symptoms and initial pulse
+oximetry of no more than 96% (or if pulse oximetry was not recorded); who were admitted to the
+hospital at which they presented or if the discharge
+disposition was not to home; and who had a
+discharge diagnosis that was not consistent with
+a known cause (e.g., bacterial or viral pneumonia
+or a chronic respiratory disease such as asthma).
+the formulated query was validated to ensure that
+it captured data on ed visits by all patients with
+confirmed or probable cases in illinois.
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+3
+
+the
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+table 2. demographic characteristics, symptoms, evaluation, and clinical course of 53 case patients.*
+characteristic
+
+values
+
+median age (range) — yr
+
+19 (16–53)
+
+male sex — no./total no. (%)
+
+44/53 (83)
+
+race or ethnic group — no./total no. (%)†
+white
+
+37/45 (82)
+
+black
+
+4/45 (9)
+
+hispanic
+
+4/45 (9)
+
+medical history documented in medical record — no./total no. (%)
+asthma
+
+16/53 (30)
+
+mood or anxiety disorder
+
+18/53 (34)
+
+e-cigarette use in the previous 90 days — no./total no. (%)‡
+reported nicotine use
+
+25/41 (61)
+
+reported only nicotine use
+
+7/41 (17)
+
+reported thc use
+
+33/41 (80)
+
+reported only thc use
+
+15/41 (37)
+
+reported nicotine and thc use
+
+18/41 (44)
+
+reported cbd use
+
+3/41 (7)
+
+symptoms reported at presentation
+median duration of symptoms before presentation (range) — days
+any respiratory symptom — no./total no. (%)§
+
+6 (0–61)
+52/53 (98)
+
+shortness of breath
+
+46/53 (87)
+
+any chest pain
+
+29/53 (55)
+
+pleuritic chest pain
+
+20/53 (38)
+
+cough
+
+44/53 (83)
+
+hemoptysis
+
+6/53 (11)
+
+any gastrointestinal symptom — no./total no. (%)§
+
+43/53 (81)
+
+nausea
+
+37/53 (70)
+
+vomiting
+
+35/53 (66)
+
+diarrhea
+
+23/53 (43)
+
+abdominal pain
+
+23/53 (43)
+
+any constitutional symptom – no./total no. (%)§
+
+53/53 (100)
+
+subjective fever
+
+43/53 (81)
+
+chills
+
+31/53 (58)
+
+weight loss
+
+14/53 (26)
+
+fatigue or malaise
+
+24/53 (45)
+
+headache — no./total no. (%)
+
+21/53 (40)
+
+vital signs at presentation
+temperature ≥38°c — no./total no. (%)
+
+15/51 (29)
+
+heart rate >100 beats/min — no./total no. (%)
+
+34/53 (64)
+
+respiratory rate >20 breaths/min — no./total no. (%)
+
+22/51 (43)
+
+oxygen saturation while breathing ambient air — no./total no. (%)
+
+4
+
+≥95%
+
+16/52 (31)
+
+89–94%
+
+20/52 (38)
+
+≤88%
+
+16/52 (31)
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+table 2. (continued.)
+characteristic
+
+values
+
+initial laboratory results
+white-cell count >11,000/mm3 — no./total no. (%)
+
+45/52 (87)
+
+white-cell count with >80% neutrophils — no./total no. (%)
+
+34/36 (94)
+
+erythrocyte sedimentation rate >30 mm/hr — no./total no. (%)
+
+14/15 (93)
+
+sodium <135 mmol/liter — no./total no. (%)
+
+15/49 (31)
+
+potassium <3.5 mmol/liter — no./total no. (%)
+
+16/46 (35)
+
+aspartate aminotransferase, alanine aminotransferase, or both — no./total no. (%)
+>35 u/liter¶
+
+20/40 (50)
+
+>105 u/liter‖
+
+2/40 (5)
+
+median procalcitonin (iqr) — μg/liter **
+
+0.58 (0.35–1.00)
+
+median creatinine (iqr) — mg/dl††
+
+0.87 (0.76–0.99)
+
+initial radiographic findings
+abnormal chest radiograph — no./total no. (%)
+
+48/53 (91)
+
+abnormal chest ct — no./total no. (%)
+
+48/48 (100)
+
+bilateral infiltrates identified on chest radiograph or ct — no./total no. (%)
+
+53/53 (100)
+
+treatment
+antibiotics for lower respiratory tract infection — no./total no. (%)
+as outpatient
+
+24/53 (45)
+
+during hospitalization
+
+45/50 (90)
+
+glucocorticoids — no./total no. (%)
+systemic glucocorticoids, oral or intravenous, during hospitalization
+
+46/50 (92)
+
+intravenous glucocorticoids
+
+38/46 (83)
+
+had clinical improvement documented with use of systemic glucocorticoids
+
+30/46 (65)
+
+clinical course
+hospitalization — no./total no. (%)
+
+50/53 (94)
+
+outpatient or ed visit before hospitalization — no./total no. (%)
+
+36/50 (72)
+
+median duration of hospitalization (range) — days
+
+6 (1–25)
+
+receipt of supplemental oxygen — no./total no. (%)
+
+46/53 (87)
+
+receipt of noninvasive positive-pressure ventilation — no./total no. (%)
+
+19/53 (36)
+
+intubation and mechanical ventilation — no./total no. (%)
+
+17/53 (32)
+
+admission to intensive care unit — no./total no. (%)
+
+31/53 (58)
+
+death — no./total no. (%)
+
+1/53 (2)
+
+*	ed denotes emergency department, and iqr interquartile range.
+†	race and ethnic group were reported by the patient. data on race or ethnic group were missing for 8 patients.
+percentages are shown for patients with data.
+‡	some data were missing because a full exposure history was not obtained from interview. tetrahydrocannabinol
+(thc) refers to marijuana-derived extracts or concentrates that contain thc and were used in e-cigarettes.
+cannabidiol (cbd) refers to other cannabis extracts or concentrates that contain cbd as the primary ingredient and
+were used in e-cigarettes.
+§	the symptoms included in this section are those listed below.
+¶	four patients had documented testing for aspartate aminotransferase only, and one had testing for alanine aminotransferase only.
+‖	a value of more than 105 u per liter is more than three times the upper limit of the normal range, which is used to
+indicate severe aminotransferase abnormality.
+**	procalcitonin was measured in 21 patients. reference ranges differed among the hospitals.
+††	to convert the values for creatinine to micromoles per liter, multiply by 88.4.
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+5
+
+the
+
+n e w e ng l a n d j o u r na l
+
+statistical analysis
+
+descriptive analyses were performed for all the
+patients with confirmed or probable cases that
+were reported in wisconsin and illinois. results
+were reported as proportions or median values.
+all analyses were conducted with the use of stata
+software, version 16 (statacorp). proportions regarding e-cigarette use were limited to the 41 patients who underwent extensive interviews regarding vaping. to calculate the rate of visits for
+severe unexplained respiratory illness according
+to syndromic surveillance, a denominator of all
+ed visits for the same time period, age range,
+and hospitals was used. the mean monthly rates
+of ed visits for severe unexplained respiratory
+illness per 10,000 ed visits for june 1 through
+august 15, 2018, and for june 1 through august
+15, 2019, were compared with a two-sided student’s t-test.
+
+r e sult s
+demographic characteristics of the patients
+
+as of august 27, 2019, a total of 35 patients had
+cases reported to the wdhs, and 47 to the idph.
+of the 82 cases reported, 2 were excluded after
+chart review, and 27 cases are pending case classification because of incomplete medical records
+or interviews. a total of 53 case patients met the
+definition of a probable case (25 total, with 13
+in wisconsin and 12 in illinois) or a confirmed
+case (28 total, with 15 in wisconsin and 13 in
+illinois). the dates of symptom onset ranged
+from april 21 through august 20, 2019, which is
+outside the typical influenza season. as of august 27, 2019, comprehensive interviews had been
+conducted for 77% of the 53 patients with a confirmed or probable case.
+the median age of the case patients was 19
+years (range, 16 to 53) (table 2); 32% of the patients were younger than 18 years of age. the
+majority of case patients were male (83%). most
+of the patients had no documented relevant
+medical history, with no underlying chronic lung
+disease except for asthma (which was noted in
+30% of the patients). patients resided in multiple
+urban and rural, noncontiguous counties across
+both states.
+clinical presentations
+
+case patients presented with a combination of
+respiratory, gastrointestinal, and constitutional
+6
+
+of
+
+m e dic i n e
+
+symptoms (table 2). the median duration of
+symptoms before hospital presentation was 6 days,
+with a wide range (0 to 61 days) of symptom duration; 72% of patients presented within 7 days
+after symptom onset. a total of 72% of the hospitalized patients had been seen in outpatient
+settings (eds, urgent care clinics, or other outpatient clinics) before admission for related symptoms, and 45% of all the patients who were seen
+in the outpatient or ed setting received antibiotic agents for presumed respiratory tract infection, primarily oral azithromycin (in 12 of the 24
+patients who received antibiotics on an outpatient basis) or levofloxacin (in 4). all the patients
+who received antibiotics on an outpatient basis
+had reported progression of respiratory symptoms, which had prompted subsequent hospital
+admission.
+a total of 98% of the patients had respiratory
+symptoms at hospital presentation (the 1 patient
+who reported no respiratory symptoms had an
+oxygen saturation of 91% on hospital admission).
+the most common respiratory symptoms were
+shortness of breath (87%), cough (83%), and chest
+pain (55%). reported gastrointestinal symptoms
+included nausea (70%), vomiting (66%), diarrhea
+(43%), and abdominal pain (43%). all patients
+had one or more constitutional symptoms, with
+the most common being subjective fever (81%).
+upper respiratory symptoms such as rhinorrhea,
+sneezing, or congestion were not commonly reported.
+details of the vital signs at presentation and
+laboratory findings are shown in table 2. according to the initial recorded vital signs, 64%
+of patients had tachycardia (heart rate range,
+55 to 146 beats per minute), and 43% had tachypnea (respiratory rate range, 15 to 48 breaths per
+minute). at presentation, 38% of the patients had
+oxygen saturation between 89% and 94% while
+they were breathing ambient air, and 31% had
+oxygen saturation of less than 89% while they
+were breathing ambient air. a total of 29% of
+the patients had a documented fever (temperature, ≥38°c) at triage, and 53% had a fever recorded at some point in their admission, but
+medical records were incomplete and this may
+be an underrepresentation of the true proportion
+with an objective fever.
+a high percentage of patients had leukocytosis (87%), defined as a white-cell count of more
+than 11,000 per cubic millimeter, with a median
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+white-cell count of 15,900 per cubic millimeter
+(interquartile range, 12,300 to 18,100). a total of
+94% of the patients had a neutrophil predominance (neutrophil percentage, >80%). among the
+27 patients that had an eosinophil percent listed,
+none had a value greater than 2%. the erythrocyte sedimentation rate was more than 30 mm
+per hour in 93% of the 15 patients in whom it
+was checked. the median procalcitonin value
+was 0.58 μg per liter (reference ranges differed
+among the hospitals). mildly elevated serum
+aminotransferase values were noted in 50% of
+patients and were transient. approximately one
+third of the patients had mild hyponatremia,
+hypokalemia, or both. acute renal insufficiency
+was observed in 1 patient, which resolved with
+intravenous hydration.
+cytopathological findings
+
+a total of 24 patients underwent bronchoalveolar
+lavage; the majority of patients received antibiotics, glucocorticoids, or both before the procedure.
+of the 14 bronchoalveolar-lavage specimens with
+reported cell counts, the median values were as
+follows: eosinophils 0% (range, 0 to 6), neutrophils 65% (range, 10 to 91), lymphocytes 7%
+(range, 1 to 40), and macrophages 21% (range,
+2 to 68). a total of 7 of the 14 cytology reports
+on bronchoalveolar-lavage specimens noted lipid-laden macrophages with oil red o stain; the
+other 7 reports did not comment on the use of
+oil red o stain. of the 7 samples with noted
+lipid-laden macrophages, 2 reports listed moderate lipid-laden macrophages, and the rest were
+scant to minimal.
+three patients underwent transbronchial lung
+biopsy, and two of these patients also underwent
+an open lung biopsy, which was performed during clinical workup; two of these patients were
+receiving both antibiotics and glucocorticoids at
+the time, and one was receiving neither before the
+procedure. pathologists reported a range of findings, including mild and nonspecific inflammation, acute diffuse alveolar damage and foamy
+macrophages, and interstitial and peribronchiolar granulomatous pneumonitis. infectious disease evaluations for possible viral, bacterial, and
+fungal pathogens were negative in nearly all case
+patients in whom the testing was performed
+(table s1 in the supplementary appendix).
+
+imaging findings
+
+at presentation, 91% of the patients had an
+abnormal chest radiograph (table 2). a total of
+48 of the 53 case patients underwent ct, and the
+findings were abnormal for 100% of these patients. opacities in both lungs were present in
+100% of the patients. ground-glass opacities in
+both lungs were characteristically observed on
+ct, sometimes with subpleural sparing. of the
+48 patients who underwent ct imaging, 4 cases
+of pneumomediastinum, 5 pleural effusions, and
+1 case of pneumothorax were present (in 8 patients). one patient had both a pneumomediastinum and a pneumothorax, and one patient had
+both a pneumomediastinum and pleural effusion.
+clinical course
+
+all but 3 patients were hospitalized (50 patients
+[94%]), and the median duration of hospital stay
+was 6 days (table 2). intensive care unit admission for respiratory failure was common (58% of
+all patients; 62% of hospitalized patients), and
+32% of all patients underwent intubation and
+mechanical ventilation (34% of hospitalized patients). no patient received a tracheostomy.
+a total of 15 case patients had documentation in clinical notes of having acute respiratory
+distress syndrome (ards). of these 15 patients,
+the investigative team was able to independently
+verify that 9 patients (60%) met the berlin criteria for ards,16 with an average index of partial
+pressure of arterial oxygen (pao2) to fraction of
+inspired oxygen (fio2) of 189 mm hg. for the
+remaining 6 patients, medical records and documentation were insufficient to verify the diagnosis independently. two patients underwent
+extracorporeal membrane oxygenation, and one
+of these patients died. for both patients, there
+was clinical documentation that the ards criteria were met.
+most patients received systemic glucocorticoids (intravenous or oral) during admission
+(92% of the patients overall; 62% received intravenous administration). documentation by the
+clinical team that the respiratory improvement
+was due to the use of glucocorticoids was found
+in the majority of patient notes (65%). all patients who began receiving systemic glucocorticoids were treated with at least 7 days of glucocorticoid therapy.
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+7
+
+the
+
+n e w e ng l a n d j o u r na l
+
+e-cigarette use
+
+all patients had a history of use of e-cigarettes and
+related products within the 90 days before symptom onset, and 94% of those with data (32 of 34
+patients) regarding the date of last use reported
+vaping in the week before symptom onset. most
+patients (29 of 33 patients [88%]) reported at
+least daily e-cigarette use. of the 41 patients
+who were extensively interviewed, 61% reported
+use of nicotine products, 80% reported use of
+thc products, and 7% reported use of cbd
+products (table 2). a total of 37% of the patients
+reported using thc products only, whereas 17%
+reported using nicotine-containing products only.
+a total of 44% of the patients reported using
+both nicotine and thc products. patients reported using 14 distinct brands of thc products
+and 13 brands of nicotine products in a wide
+range of flavors. the most common thc product
+that was reported was marketed under the “dank
+vape” label (reported by 24 of 41 interviewed patients [59%]). patients reported use of a number
+of different e-cigarette devices to aerosolize these
+products. of the 41 patients who were extensively
+interviewed, 7 reported smoking combustible
+cigarettes as well.
+clinical series of selected patents
+with confirmed cases
+
+figure 1 shows the clinical course of five patients who met the confirmed case definition
+and who underwent intubation and mechanical
+ventilation. representative of the case series in
+general, most of the patients had previous outpatient visits before admission and ultimately
+began receiving systemic glucocorticoids.
+select clinical vignette with radiographs
+
+a 17-year-old male patient with no clinically significant medical history presented to a hospital
+ed with a 2-day history of shortness of breath,
+nonproductive cough, and generalized weakness
+as well as a 1-week history of fever before presentation, nausea, vomiting, abdominal pain, and
+diarrhea. he sought care with his primary care
+provider and at multiple eds for his gastrointestinal symptoms during the week before his admission and was treated with intravenous fluids
+and given metronidazole, levofloxacin, and an
+antiemetic agent. his condition worsened, and
+new respiratory symptoms developed, so he presented again to the ed, where he was found to
+8
+
+of
+
+m e dic i n e
+
+have hypoxemia with an oxygen saturation of
+85% while he was breathing ambient air, tachycardia with a heart rate of 112 beats per minute,
+and a temperature of 37.9°c. a radiograph of the
+chest showed opacities in both lungs that were
+suggestive of infection or acute lung injury
+(fig. 2a). his laboratory results showed leukocytosis (white-cell count, 18,000 cells per cubic
+millimeter) with a neutrophil predominance
+(94%) and no eosinophils (0%), as well as elevated inflammatory markers with a c-reactive protein level of 32 mg per deciliter and an erythrocyte sedimentation rate of 68 mm per hour.
+the patient began receiving amoxicillin and
+azithromycin as empirical therapy for community-acquired and atypical pneumonia and was
+admitted to the hospital while he was receiving
+3 liters of oxygen per minute through a nasal
+cannula. within hours, he was transferred to the
+pediatric intensive care unit owing to respiratory
+deterioration. he was intubated and mechanically ventilated, receiving a high fio2 and positive
+end-expiratory pressure, and met the criteria for
+moderate ards. a radiograph of the chest that
+was obtained approximately 12 hours after presentation showed rapid worsening of diffuse lung
+opacities (fig. 2b), and a high-resolution ct image of the chest showed diffuse hazy groundglass opacities with subpleural sparing, findings
+consistent with pneumonitis (fig. 2c through
+2e). on day 2 of hospitalization, the patient underwent bronchoscopy, which showed normalappearing bronchi. cytologic testing of bronchoalveolar-lavage specimens showed a neutrophil
+predominance (78%) with no eosinophils (0%)
+and a moderate number of lipid-laden macrophages on oil red o staining. infectious workup,
+including blood cultures, testing for human immunodeficiency virus (hiv), urinary histoplasma
+and blastomyces antigens, polymerase-chain-reaction (pcr) panel for nasopharyngeal respiratory
+virus, pcr panel for enteric pathogens, and
+bronchoalveolar-lavage studies including bacterial and fungal cultures and pneumocystis stain,
+was negative. he began receiving high-dose intravenous glucocorticoids on day 2 of the hospitalization, and antibiotics were discontinued on
+day 4 because an infectious cause was deemed to
+be unlikely. the patient’s clinical condition improved, and he was extubated after receiving
+intravenous glucocorticoids for 3 days. the patient was discharged home on hospital day 6 with
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+* outpatient medical visit
+
+glucocorticoids administered
+
+extracorporeal membrane oxygenation
+
+antibiotics administered
+
+hospital admission
+
+continued after discharge
+
+mechanical ventilation
+
+course of illness
+
+death
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+number of days
+30 35 40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+highest available ventilator data
+fio2, 1.0;
+vt, 450 ml; 26 breaths/min;
+peep, 10 cm h2o; pao2:fio2, 176 mm hg
+
+patient 1
+
+*
+patient 2
+
+fio2, 0.6; vt, 450 ml;
+peep, 10 cm h2o; pao2:fio2, 195 mm hg;
+plateau pressure, 24 cm h2o
+
+patient 3
+
+fio2, 1.0;
+vt, 550 ml (7.7 ml/kg ibw);
+24 breaths/min; peep, 10 cm h2o;
+pao2:fio2, 96 mm hg;
+plateau pressure, 24 cm h2o
+
+*
+
+fio2, 0.7; “on a low tidal
+volume protocol”; pao2:fio2, 207 mm hg;
+peep, 10 cm h2o
+
+patient 4
+
+*
+fio2, 1.0;
+vt, 300 ml (5.0 ml/kg ibw);
+14 breaths/min; peep, 15 cm h2o;
+pao2:fio2, 59 mm hg;
+plateau pressure, 30 cm h2o
+
+patient 5
+
+*
+0
+
+* *
+5
+
+10
+
+15
+
+20
+
+25
+
+30 35 40 45
+number of days
+
+50
+
+55
+
+60
+
+65
+
+70
+
+figure 1. clinical course and ventilator use in selected patients with confirmed severe pulmonary disease who were admitted
+to an intensive care unit.
+patients were selected if they had a confirmed case of severe pulmonary disease associated with e-cigarette use, according to the august
+30, 2019, outbreak surveillance case definitions of the centers for disease control and prevention (cdc); if they had been intubated;
+and if ventilatory requirements for the case definition were documented. patient 5 was admitted to the hospital and discharged and was
+later readmitted. fio2 denotes fraction of inspired oxygen, ibw ideal body weight, pao2 partial pressure of arterial oxygen, peep positive
+end-expiratory pressure, and vt tidal volume.
+
+instructions to continue an oral glucocorticoid– was twice the mean monthly rate that occurred
+tapering regimen for 6 weeks.
+between june 1 and august 15, 2018 (7.4 cases
+per 10,000 visits vs. 3.8 cases per 10,000 visits),
+syndromic surveillance
+in illinois counties. this difference was signifithe mean monthly rate of visits to the ed for se- cant for both male and female patients (p<0.05
+vere respiratory illness as identified by syndromic for both comparisons; p<0.001 for the combined
+surveillance between june 1 and august 15, 2019, comparison) (fig. 3).
+n engl j med
+
+nejm.org
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+9
+
+the
+
+n e w e ng l a n d j o u r na l
+
+a
+
+b
+
+c
+
+d
+
+of
+
+m e dic i n e
+
+e
+
+figure 2. chest radiographs and high-resolution computed tomographic imaging in a 17-year-old male patient
+with diffuse lung disease.
+in the initial radiograph of the chest at admission (panel a), the anterior–posterior image shows hazy opacities that
+are predominant in the mid and lower lungs. an anterior–posterior radiograph of the chest that was obtained approximately 12 hours after presentation (panel b) shows rapid worsening of diffuse lung opacities with developing
+consolidation and air bronchograms. axial (panels c and d, showing different segments of the lung in order to visualize the extent of the opacities) and coronal reformatted (panel e) high-resolution ct images of the chest show
+ground-glass opacities in both lungs and dense consolidation in a peribronchial and perilobular distribution, with
+relative subpleural sparing — findings consistent with an organizing pneumonia pattern of lung injury.
+
+10
+
+n engl j med
+
+nejm.org
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+in this report, we describe an ongoing investigation of pulmonary disease associated with the
+use of e-cigarettes and related products in the
+days and weeks before symptom onset in two
+states. available data on trends in syndromic
+surveillance suggest that the increase in the patients presenting with severe pulmonary disease
+is relatively recent. although the definitive cause
+of this cluster remains unknown, the severity of
+the illness and the recent increase in the incidence of this clinical syndrome indicates that
+these cases represent a new or newly recognized
+and worrisome cluster of pulmonary disease related to vaping.
+e-cigarette liquids and aerosols have been
+shown to contain a variety of chemical constituents that may have adverse health effects.17 major declared constituents in nicotine-based ecigarettes include propylene glycol and glycerin,18
+in addition to nicotine. identified contaminants
+include polycyclic aromatic hydrocarbons, nitrosamines, volatile organic chemicals, and inorganic chemicals such as toxic metals.18,19 endotoxins and flavoring compounds such as diacetyl
+and 2,3-pentanedione have also been detected.20,21
+the health risks of some constituents remain
+poorly characterized, and toxicologic assessment
+of these substances is an active area of ongoing
+research.18,19 in addition to nicotine, e-cigarette
+devices can be used to deliver a variety of other
+recreational drugs, including thc-based oils.4,22
+although the cause or causes of the reported
+illnesses remain under investigation, products
+containing thc are the most commonly reported
+e-cigarette product exposure among these case
+patients (84%). however, 17% of the patients
+reported using only nicotine-based products,
+and 44% reported using both thc-based and
+nicotine-based products. information on product
+use is based on reports by the patients, and patients may be reluctant to report illicit drug use.
+less clear is the relevance of e-cigarette device
+types that were used, as well as the importance of
+practice habits (frequency of use, dosing, etc.),
+product delivery methods (e.g., adulteration of
+devices), and definitive product content. thcbased oils and waxes can be widely purchased,
+despite the fact that they are illegal in the majority of states, including illinois and wisconsin,
+
+ed visits for severe unexplained respiratory illness
+per 10,000 visits
+
+discussion
+14
+12
+
+female patients, 2018
+female patients, 2019
+male patients, 2018
+male patients, 2019
+
+10
+8
+6
+4
+2
+0
+
+january february march
+
+april
+
+may
+
+june
+
+july
+
+august
+
+month
+
+figure 3. emergency department (ed) visits for severe unexplained
+respiratory illness among patients 14 to 30 years of age, according to
+sex, in illinois counties in 2018 and 2019.
+the periods of january through august in 2018 and 2019 were compared.
+outbreak-related cases have been identified since april 2019 and are ongoing.
+
+and the content of these products is largely unknown and unregulated.23
+pulmonary illnesses that have been linked to
+e-cigarette use have been limited to individual case
+reports. nicotine-containing liquids have been associated with a variety of disease presentations.
+diffuse alveolar hemorrhage and exogenous lipoid
+pneumonia have been observed.24,25 acute interstitial lung disease, including acute eosinophilic
+pneumonia, respiratory bronchiolitis-associated
+interstitial lung disease, and hypersensitivity
+pneumonitis, has also been associated with use
+of nicotine-containing liquids.7,8,26 health effects
+from dabbing of cannabis concentrates (i.e., superheating of substances containing high levels
+of thc or cbd in the device) are less frequently
+reported in the literature. butane hash oil has
+been associated with pneumonitis,12,27 and thc
+oil has been associated with organizing pneumonia.13
+in the case series presented here, the population was generally young and healthy, yet acute
+severe pulmonary disease developed and resulted
+in critical care and respiratory support. given the
+disparate nature of e-cigarette–associated illnesses that have been reported in the literature, it is
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+11
+
+the
+
+n e w e ng l a n d j o u r na l
+
+notable that case patients in wisconsin and illinois presented with similar clinical findings and
+progression of disease, which suggests a similar
+pathophysiological mechanism of lung injury.
+however, the definitive pathology for these pulmonary diseases has not been established, and
+it is possible that these pulmonary diseases represent a range of disease processes.
+as noted above, many chemical constituents
+that have been detected in e-cigarette liquids could
+cause acute and subacute effects. these constituents may also undergo thermal decomposition
+(pyrolysis) by the metallic e-cigarette heating coils
+to produce new compounds in aerosol with different toxicologic profiles.28,29 the coils may also
+release metals such as manganese and zinc into
+the aerosol, which can be toxic when inhaled.30
+alone or in combination, these substances could
+result in a variety of pulmonary illnesses such as
+chemical pneumonitis, acute eosinophilic pneumonia, acute and subacute hypersensitivity pneumonitis, lipoid pneumonia, metal fume fever, and
+polymer fume fever. acute lung injury and ards
+could result in severe cases.
+of note, eosinophilia was not widely seen in
+peripheral blood nor observed in bronchoalveolar-lavage specimens, and characteristic radiographic findings of exogenous lipoid pneumonia
+(e.g., low attenuation consolidations) were not
+reported in radiograph reports. among the cytologic reports on bronchoalveolar-lavage specimens
+that included information on specific oil staining, lipid-laden macrophages were reported as
+moderate in two and as only “scant” or “minimal”
+in the others; specific mention of oil staining was
+not provided in the other cytology reports of
+bronchoalveolar-lavage specimens. interestingly,
+opacities in both lungs were noted on either radiograph or ct of the chest in all the patients.
+a comprehensive review of imaging by a panel
+of expert chest radiologists could help to more
+completely characterize and identify unique radiographic findings.
+the cdc released a clinical health advisory31
+on august 30, 2019, recommending that all patients who report e-cigarette use within the previous 90 days be asked about signs and symptoms
+of pulmonary illness. clinicians should consider
+the possibility of pulmonary disease associated
+with vaping when patients report recent use,
+especially when other causes are not identified.
+
+12
+
+of
+
+m e dic i n e
+
+alternative causes of respiratory illness may be
+more likely than vaping, and therefore clinicians
+should also continue to consider and appropriately assess for such possible causes of illness in
+patients reporting respiratory and gastrointestinal symptoms and e-cigarette use. although our
+current understanding of the appropriate treatment strategies is insufficient to provide clinical recommendations, patients thus far have had
+clinical improvement with systemic glucocorticoid
+therapy, and the majority of patients have received
+prolonged courses.
+this article details the clinical spectrums of
+the largest cohort of 53 case patients from two
+states. detailed evaluation of medical records,
+chest imaging, laboratory results, and exposure
+information among these cases provided an opportunity to evaluate, characterize, and compare
+their clinical courses. additional data are needed to define the causative exposures. these data
+are preliminary and subject to several limitations. exposure information was reported by the
+patients and may be subject to recall error or
+hesitancy to report vaping practices. given the
+emerging nature of this syndrome, this initial
+series may capture data on patients with more
+severe cases who presented for evaluation and
+may not capture data on more mild clinical presentations that were related to the same exposure
+or disease process.32 medical chart data were not
+complete for all patients, especially with regard
+to respiratory ventilator variables, which limits a
+more detailed description of disease severity. not
+all patients had an exhaustive list of negative
+findings on serologic tests for infectious causes,
+cultures, or molecular studies.
+in summary, we report a case series of severe
+pulmonary disease associated with the use of
+e-cigarettes and related products among generally young, healthy persons in wisconsin and
+illinois who presented between april and august
+2019. cases continue to be reported to both these
+health departments and across at least 25 states
+nationwide. detailed interviews with patients to
+delineate all e-cigarette exposures, including both
+devices and substances used, will help to further
+narrow the list of potential agents that may be
+responsible for the observed increase in pulmonary disease associated with vaping. the wdhs
+and idph are also working to obtain e-cigarette
+devices and liquids for further testing, and the
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+pulmonary illness related to e-cigaret te use
+
+forensic chemistry center of the food and drug used by youths, young adults, pregnant women,
+administration is pursuing nontargeted analyses and adults who do not currently use tobacco
+of submitted product samples.
+products.33
+the findings in this report support several
+disclosure forms provided by the authors are available with
+public health recommendations issued by the
+the full text of this article at nejm.org.
+cdc.33 since no single product or substance has
+we thank the staff of the wisconsin department of health
+been associated with the illness, persons should services and illinois department of public health and numerous
+consider not using e-cigarettes while this inves- local health departments and hospitals who played a critical role
+in this investigation and collected the information provided in
+tigation is ongoing, especially those purchased this article; members of the investigative team, including carrie
+from sources other than authorized retailers tomasallo and barbara grajewski of the wisconsin department
+(e.g., e-cigarette products with thc) and those of health services; connie austin, judy kauerauf, and matt
+charles of the illinois department of public health; and michael
+modified in a manner not intended by the gutzeit, lynn d’andrea, and lori loof of the children’s hospital
+manufacturer. adult smokers who are attempt- of wisconsin, for their recognition of the cluster and assistance
+ing to quit should consult with their health care with the public health investigation; grant t. baldwin, debra
+houry, dana meaney-delman, and ileana arias of the centers
+provider and use proven treatments. irrespective for disease control and prevention (cdc); and the cdc 2019
+of these findings, e-cigarettes should never be lung injury response team.
+references
+1. surgeon general’s advisory on e-cigarette use among youth. washington, dc:
+department of health and human services, office of the surgeon general, 2018
+(https://e​-­cigarettes​.surgeongeneral​.gov/​
+documents/​surgeon​-­generals​-­advisory​-­on​
+-­e​-­cigarette​-­use​-­among​-­youth​-­2018​.pdf).
+2. national academies of sciences, engineering, and medicine. public health
+consequences of e-cigarettes. washington, dc: national academies press, 2018.
+3. e-cigarette use among youth and
+young adults: a report of the surgeon general. rockville, md: department of
+health and human services, 2016.
+(https://e​-­cigarettes​.surgeongeneral​.gov/​
+documents/​2016_sgr_full_report_508​
+.pdf).
+4. breitbarth ak, morgan j, jones al. ecigarettes: an unintended illicit drug delivery system. drug alcohol depend 2018;​
+192:​98-111.
+5. cullen ka, ambrose bk, gentzke as,
+apelberg bj, jamal a, king ba. notes
+from the field: use of electronic cigarettes
+and any tobacco product among middle
+and high school students — united
+states, 2011–2018. mmwr morb mortal
+wkly rep 2018;​67:​1276-7.
+6. centers for disease control and prevention. national health interview survey
+(https://www​.cdc​.gov/​nchs/​nhis/​data​
+-­questionnaires​-­documentation​.htm).
+7. sommerfeld cg, weiner dj, nowalk
+a, larkin a. hypersensitivity pneumonitis and acute respiratory distress syndrome from e-cigarette use. pediatrics
+2018;​141(6):​e20163927.
+8. arter zl, wiggins a, hudspath c,
+kisling a, hostler dc, hostler jm. acute
+eosinophilic pneumonia following electronic cigarette use. respir med case rep
+2019;​27:​100825.
+9. thota d, latham e. case report of
+
+electronic cigarettes possibly associated
+with eosinophilic pneumonitis in a previously healthy active-duty sailor. j emerg
+med 2014;​47:​15-7.
+10. moore k, young h, ryan mf. bilateral
+pneumonia and pleural effusions subsequent to electronic cigarette use. open j
+emerg med 2015;​3:​18-22.
+11. khan ms, khateeb f, akhtar j, et al.
+organizing pneumonia related to electronic cigarette use: a case report and review of literature. clin respir j 2018;​12:​
+1295-9.
+12. anderson rp, zechar k. lung injury
+from inhaling butane hash oil mimics
+pneumonia. respir med case rep 2019;​
+26:​171-3.
+13. he t, oks m, esposito m, steinberg
+h, makaryus m. “tree-in-bloom”: severe
+acute lung injury induced by vaping cannabis oil. ann am thorac soc 2017;​14:​
+468-70.
+14. yoon pw, ising ai, gunn je. using
+syndromic surveillance for all-hazards
+public health surveillance: successes,
+challenges, and the future. public health
+rep 2017;​132:​ suppl:​3s-6s.
+15. national syndromic surveillance program (nssp) (https://www​.cdc​.gov/​nssp/​
+biosense/​index​.html).
+16. ards definition task force, ranieri
+vm, rubenfeld gd, et al. acute respiratory distress syndrome: the berlin definition. jama 2012;​307:​2526-33.
+17. floyd el, queimado l, wang j, regens jl, johnson dl. electronic cigarette
+power affects count concentration and
+particle size distribution of vaping aerosol. plos one 2018;​13(12):​e0210147.
+18. burstyn i. peering through the mist:
+systematic review of what the chemistry
+of contaminants in electronic cigarettes
+tells us about health risks. bmc public
+health 2014;​14:​18.
+
+19. pisinger c, døssing m. a systematic
+review of health effects of electronic cigarettes. prev med 2014;​69:​248-60.
+20. lee ms, allen jg, christiani dc. endotoxin and and (1->3-β-d-glucan contamination in electronic cigarette products sold in the united states. environ
+health perspect 2019;​127:​47008.
+21. allen jg, flanigan ss, leblanc m, et
+al. flavoring chemicals in e-cigarettes:
+diacetyl, 2,3-pentanedione, and acetoin in
+a sample of 51 products, including fruit-,
+candy-, and cocktail-flavored e-cigarettes.
+environ health perspect 2016;​124:​733-9.
+22. al-zouabi i, stogner jm, miller bl,
+lane es. butane hash oil and dabbing:
+insights into use, amateur production
+techniques, and potential harm mitigation. subst abuse rehabil 2018;​9:​91-101.
+23. trivers kf, phillips e, gentzke as,
+tynan ma, neff lj. prevalence of cannabis use in electronic cigarettes among us
+youth. jama pediatr 2018;​172:​1097-9.
+24. agustin m, yamamoto m, cabrera f,
+eusebio r. diffuse alveolar hemorrhage
+induced by vaping. case rep pulmonol
+2018;​2018:​9724530.
+25. mccauley l, markin c, hosmer d. an
+unexpected consequence of electronic
+cigarette use. chest 2012;​141:​1110-3.
+26. flower m, nandakumar l, singh m,
+wyld d, windsor m, fielding d. respiratory bronchiolitis-associated interstitial
+lung disease secondary to electronic nicotine delivery system use confirmed with
+open lung biopsy. respirol case rep 2017;​
+5(3):​e00230.
+27. mcmahon mj, bhatt na, stahlmann
+cg, philip ai. severe pneumonitis after
+inhalation of butane hash oil. ann am
+thorac soc 2016;​13:​991-2.
+28. gillman ig, kistler ka, stewart ew,
+paolantonio ar. effect of variable power
+levels on the yield of total aerosol mass
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+13
+
+the
+
+n e w e ng l a n d j o u r na l
+
+and formation of aldehydes in e-cigarette
+aerosols. regul toxicol pharmacol 2016;​
+75:​58-65.
+29. jensen rp, luo w, pankow jf, strongin rm, peyton dh. hidden formaldehyde in e-cigarette aerosols. n engl j med
+2015;​372:​392-4.
+30. olmedo p, goessler w, tanda s, et al.
+metal concentrations in e-cigarette liquid
+and aerosol samples: the contribution of
+
+14
+
+of
+
+m e dic i n e
+
+metallic coils. environ health perspect
+2018;​126:​027010.
+31. centers for disease control and prevention. health alert network: severe
+pulmonary disease associated with using
+e-cigarette products. august 30, 2019
+(https://emergency​.cdc​.gov/​han/​han00421​
+.asp).
+32. lipsitch m, donnelly ca, fraser c, et
+al. potential biases in estimating absolute
+
+and relative case-fatality risks during outbreaks. plos negl trop dis 2015;​
+9(7):​
+e0003846.
+33. schier jg, meiman jg, layden j, et al.
+severe pulmonary disease associated with
+electronic-cigarette–product use — interim guidance. mmwr morb mortal wkly
+rep 2019;​68(36).
+copyright © 2019 massachusetts medical society.
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+

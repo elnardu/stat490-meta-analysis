@@ -1,0 +1,702 @@
+c a r d i o p u l m o n a r y i m a g i n g • c l i n i c a l pe r s p e c t i ve
+ajlan et al.
+ct in mers-cov infection
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+cardiopulmonary imaging
+clinical perspective
+
+middle east respiratory syndrome
+coronavirus (mers-cov) infection:
+chest ct findings
+amr m. ajlan1
+rayan a. ahyad2
+lamia ghazi jamjoom1
+ahmed alharthy 3
+tariq a. madani 4
+ajlan am, ahyad ra, jamjoom lg, alharthy a,
+madani ta
+
+keywords: coronavirus, ct, high-resolution ct, middle
+eastern respiratory syndrome (mers), middle eastern
+respiratory syndrome coronavirus (mers-cov),
+organizing pneumonia
+doi:10.2214/ajr.14.13021
+received april 19, 2014; accepted after revision
+may 17, 2014.
+1
+
+cardiothoracic imaging unit, department of radiology,
+king abdulaziz university hospital, king abdulaziz
+university, jeddah, western region, saudi arabia.
+address correspondence to a. m. ajlan
+(amrajlan@yahoo.com).
+
+2
+department of radiology, king faisal specialist
+hospital and research center, jeddah, western region,
+saudi arabia.
+3
+department of radiology, king abdulaziz university
+hospital, king abdulaziz university, jeddah,
+western region, saudi arabia.
+4
+department of medicine, king abdulaziz university
+hospital, king abdulaziz university, jeddah,
+western region, saudi arabia.
+
+ajr 2014; 203:782–787
+0361–803x/14/2034–782
+© american roentgen ray society
+
+782
+
+objective. the purpose of this study was to describe the chest ct findings in seven
+patients with middle east respiratory syndrome coronavirus (mers-cov) infection.
+conclusion. the most common ct finding in hospitalized patients with mers-cov
+infection is that of bilateral predominantly subpleural and basilar airspace changes, with more
+extensive ground-glass opacities than consolidation. the subpleural and peribronchovascular
+predilection of the abnormalities is suggestive of an organizing pneumonia pattern.
+
+i
+
+n september 2012, the acute viral respiratory disease known as
+middle east respiratory syndrome (mers) was first reported in saudi arabia [1]. mers is caused by a
+novel virus currently named mers coronavirus (mers-cov) [1, 2]. since then, cases
+of mers have been identified in jordan, qatar, the united arab emirates, kuwait,
+oman, tunisia, germany, france, the united
+kingdom, and italy [3]. in april 2014, an increase in the number of mers-cov cases in
+saudi arabia and the united arab emirates
+was reported to the world health organization (who) [4]. new cases have been recently reported in yemen, egypt, greece,
+malaysia, the philippines, and the united
+states [5]. a history of recent travel from
+saudi arabia or the united arab emirates
+was documented in all cases recently reported outside the middle east. as of may 9,
+2014, 536 laboratory-confirmed cases have
+been reported to the who, and 145 of these
+patients have died [5].
+proven cases of mers-cov have been
+acquired both in the community and
+health care settings [2, 6, 7]. the source of
+mers-cov is not yet clear, but the origin
+of the infection has been linked to camels
+[8, 9]. an association with bats has been
+proposed as well [10]. although not clearly
+documented in all cases, most patients acquire the illness through person-to-person
+transmission [2, 11]. the clinical presentation of mers varies from mild to severe,
+but most reported patients developed severe
+illness, resulting in a high case-fatality rate
+
+[2]. mers-cov has been detected in previously healthy patients and patients with
+known comorbidities, with a larger number
+of reported cases in the latter group [2]. patients with hypertension, diabetes, cardiomyopathy, chronic renal failure, malignancy, and decreased immunity appear to be at
+a higher risk of developing severe disease.
+presenting symptoms include fever, cough,
+chills, dyspnea, myalgia, abdominal pain,
+nausea, vomiting, and diarrhea [1, 2, 6, 11].
+laboratory abnormalities that have been
+encountered with mers include thrombocytopenia, lymphopenia, leukopenia, elevated serum lactate dehydrogenase (ldh),
+elevated aspartate aminotransferase (ast),
+elevated alanine aminotransferase (alt),
+and abnormal renal function tests [2, 6, 7,
+11]. superinfection from viral or bacterial
+causes has been found in some patients and
+may complicate the course of the disease
+[11]. severe cases of mers may require
+intensive care and mechanical ventilation,
+with a relatively large number of patients
+progressing to respiratory or renal failure
+[1, 2, 7, 11, 12]. to our knowledge, no vaccine or specific antiviral agents are currently available against mers-cov [11, 12].
+despite a number of recent publications
+on mers, the description of the imaging
+features of this disease is sparse and limited to nonimaging medical literature [2,
+12]. both airspace and interstitial opacities
+have been described on chest radiographs of
+mers. radiographic findings may be subtle or extensive, unilateral or bilateral, and
+focal or diffuse. the airspace opacities have
+
+ajr:203, october 2014
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+ct in mers-cov infection
+been nonspecific, described as focal, segmental, lobar, patchy, nodular, or confluent,
+whereas the interstitial changes have been
+described as reticular or reticulonodular. total lung opacification and thickening of the
+bronchovascular markings have been reported as well. chest ct findings in mers are
+even less clearly described and have been reported as bilateral patchy or extensive opacities [2, 12]. it has been noted that imaging
+features consistent with acute respiratory
+distress syndrome were typically identified
+in sicker patients [12]. the purpose of this
+study was to review and better describe the
+chest ct findings of laboratory-confirmed
+mers-cov cases.
+materials and methods
+subjects
+approval for this study was obtained from
+the local research ethics committees of two
+
+hospitals; informed consent was waived. a retrospective review of the electronic archives at
+both hospitals was searched for all ct-imaged
+laboratory-confirmed mers-cov cases. all
+cases were confirmed by respiratory samples
+tested by real-time reverse-transcriptase-polymerase chain reaction (rrt-pcr). the rrtpcr targeted the mers-cov rna upstream
+region of the e gene and confirmed the result
+by targeting the open reading frame orf1a and
+orf1b regions, as previously described [13,
+14]. a final cohort of seven cases was identified for our study. the available clinical, laboratory, and imaging findings were evaluated in
+all seven patients.
+
+imaging techniques
+mdct was performed using one of the following ct scanners: 16-mdct lightspeed
+(ge healthcare), 64-mdct discovery 750 hd
+(ge healthcare), 64-mdct sensation (siemens
+
+a
+
+c
+ajr:203, october 2014
+
+healthcare), or second-generation dual-source
+128-mdct somatom definition flash (siemens
+healthcare). the protocol used was as follows:
+end inspiratory acquisition, 100–120 kv, 200–500
+mas, 1–2.25 mm slice thickness, and 1–1.25 mm
+slice interval. only one patient received 60 ml iv
+of iodinated contrast material (iobitridol 350 [350
+mg i/ml], xenetix, guerbet).
+
+image analysis
+two fellowship-trained thoracic radiologists,
+with 5 and 11 years of experience, reviewed the
+ct studies independently and resolved discrepancies by consensus. images were analyzed on
+one of two pacs workstations: ids7 (sectra)
+and centricity web (ge healthcare). the images
+were viewed on both lung (width, 1500 hu; level,
+−700 hu) and mediastinal (width, 350 hu; level,
+40 hu) settings. the two readers analyzed the axial ct images but were free to evaluate the multiplanar reformats.
+
+b
+
+fig. 1—27-year-old man with middle east respiratory syndrome (case 1). patient
+was smoker who was healthy otherwise. ct was performed 8 days after admission
+and 20 days after onset of symptoms. patient was eventually discharged.
+a, upper lung ct image shows bilateral subpleural ground-glass opacities
+(arrows) and ill-defined centrilobular ground-glass nodules (arrowhead).
+b and c, two lower lung ct images show large right lower lobe (arrow, b) and
+small focal left lower lobe (arrow, c) subpleural consolidations.
+
+783
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+the ct scans were assessed for the presence
+of ground-glass opacities, consolidation, cavitation, centrilobular nodules, tree-in-bud pattern,
+septal thickening, perilobular opacities, reticulation, architectural distortion, subpleural bands,
+traction bronchiectasis, bronchial wall thickening, intrathoracic lymph node enlargement, and
+pleural effusions. ground-glass opacity was defined as increased lung density with no obscuration of the underlying lung markings. consolidation was defined as increased lung density with
+obscuration of the underlying lung markings.
+perilobular opacities were defined as polygonal or curvilinear bands bordering the secondary pulmonary lobule. reticulation was defined
+as interlobular or intralobular irregular septal
+thickening. subpleural bands were defined as
+thin linear opacities peripheral and parallel to
+the pleura. traction bronchiectasis was defined
+as irregular or distorted dilated airways seen in
+areas of fibrosis.
+the abnormalities were characterized as unilateral or bilateral. the distribution was categorized as focal, multifocal, or diffuse. focal was
+
+fig. 2—19-year-old
+ajlan
+man with middle east
+respiratory syndrome
+(case 2). ct was
+performed on day of
+admission, which was
+4 days from onset of
+symptoms. patient was
+eventually discharged.
+chest ct image shows
+isolated focal subpleural
+left lower lobe
+consolidation (arrow).
+
+defined as a single focus of abnormality, multifocal as more than one focus, and diffuse as involvement of most of the volume of one lung.
+the craniocaudal distribution of the abnormalities was categorized as upper lung predominant,
+
+a
+
+c
+784
+
+et al.
+
+lower lung predominant, or no craniocaudal predilection. the transverse distribution of the abnormalities was categorized as central (i.e., peribronchovascular), peripheral (i.e., subpleural), or no
+transverse predilection.
+
+b
+
+fig. 3—50-year-old woman with middle east respiratory syndrome (case 3).
+patient had history of diabetes, hypertension, and chemotherapy-induced
+cardiomyopathy. ct was performed 19 days after admission and 22 days after
+onset of symptoms. patient was eventually discharged.
+a, upper lung ct image shows minimal reticulation (arrow) and large areas of
+bilateral ground-glass opacities and consolidation.
+b, mid-lung ct image shows minimal reticulation (arrow), perilobular opacities
+(arrowhead), and extensive ground-glass opacities and consolidation.
+c, lower lung ct image shows traction bronchiectasis (arrow) and large areas of
+bilateral ground-glass opacities and consolidation.
+
+ajr:203, october 2014
+
+ct in mers-cov infection
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+table 1: summary of clinical and ct features in seven patients with middle east respiratory syndrome
+coronavirus
+patient age
+no.
+(y) sex habits and comorbidities
+
+main
+symptoms
+
+time from
+onset to
+ct (d)
+
+main ct
+findings
+
+distribution of
+ct findings
+
+clinical
+outcome
+
+1
+
+27
+
+m
+
+smoking,
+no comorbidities
+
+myalgia, lethargy,
+back pain,
+abdominal pain,
+fever, cough
+
+20
+
+ggo more than consolidation,
+bronchial wall thickening,
+ill-defined centrilobular
+opacities, septal thickening,
+pleural effusions
+
+bilateral, peribroncho­vascular, recovered
+predominantly subpleural and
+basilar
+
+2
+
+19
+
+m
+
+none
+
+fever, cough
+
+4
+
+consolidation
+
+unilateral, subpleural,
+focal to left lower lobe
+
+recovered
+
+3
+
+50
+
+f
+
+diabetes mellitus,
+fever, cough,
+hypertension,
+dyspnea, sputum
+chemotherapy-induced production
+cardio­myopathy,
+treated lymphoma
+
+22
+
+ggo more than consolidation,
+bilateral, diffuse with no
+perilobular opacities, septal
+specific predominance
+thickening, reticulation, traction
+bronchiectasis
+
+recovered
+
+4
+
+44
+
+m
+
+none
+
+9
+
+ggo more than consolidation,
+septal thickening, pleural
+effusions
+
+bilateral, peribroncho­vascular, died
+predominantly subpleural and
+basilar
+
+5
+
+73
+
+m
+
+smoking, diabetes
+cough, sputum
+mellitus, hypertension,
+production,
+dyslipidemia
+dyspnea
+
+4
+
+consolidation more than ggo
+
+bilateral, peribroncho­vascular, died
+predominantly subpleural and
+basilar
+
+6
+
+53
+
+f
+
+obesity, prior resection
+of parotid adenoid
+cystic carcinoma
+
+fever, cough,
+sputum production
+
+49
+
+ggo, subpleural bands,
+architectural distortion
+
+bilateral, diffuse with no
+specific predominance
+
+7
+
+83
+
+m
+
+diabetes mellitus,
+hypertension
+
+fever, cough,
+dyspnea
+
+9
+
+ggo more than consolidation,
+pleural effusions
+
+bilateral, peribroncho­vascular, died
+predominantly subpleural and
+basilar
+
+fever, cough,
+dyspnea
+
+recovered
+
+note—ggo= ground-glass opacities.
+
+results
+subjects
+our group of patients consisted of seven patients, five men and two women, with an age
+range of 19–83 years (median age, 50 years).
+the time from the onset of symptoms to hospital presentation ranged from 2 to 14 days
+(median, 7 days). the main presenting symptoms were cough (n = 7), fever (n = 6), dyspnea
+(n = 4), sputum production (n = 3), abdominal
+pain (n = 1), back pain (n = 1), lethargy (n = 1),
+and myalgia (n = 1). in one patient, lethargy
+and myalgia preceded the respiratory symptoms by 3 days. the remaining six patients
+had respiratory symptoms from the onset of
+the infection. only one patient had a history
+of contact with camels. another patient was a
+physician who worked in a hospital where several proven mers cases were being treated.
+the remaining five patients had no history of
+contact with proven mers-cov cases or animals. two of the seven patients were smokers.
+three of the seven patients had no significant
+medical history. the remaining four patients
+had one or more of the following comorbidities: hypertension (n = 3), diabetes (n = 3),
+dyslipidemia (n = 1), obesity (n = 1), and chemotherapy-induced cardiomyopathy (n = 1).
+
+ajr:203, october 2014
+
+additionally, one patient had been treated for
+lymphoma and another patient had undergone
+resection of parotid adenoid cystic carcinoma.
+nasopharyngeal swab testing yielded a diagnosis of mers-cov in six of the seven patients. one of the seven patients had a falsenegative swab result. bronchoalveolar lavage
+(bal) was performed in five of the seven patients, with all bal samples testing positive
+for mers-cov. all seven patients had lymphopenia (absolute lymphocyte count < 1.5 ×
+103/ul) on presentation or during hospitalization. three patients had leukopenia (absolute
+white blood count, < 4.5 × 103/ul), and three
+patients had thrombocytopenia (absolute
+platelet count < 150 × 103/ul) on presentation
+or during hospitalization. the creatinine was
+normal on admission and became elevated
+(levels > 115 umol/l) during hospitalization
+in all seven patients. serum ldh values were
+available and elevated in three of the seven patients (levels exceeding 190 u/l). ast values
+were elevated in all seven patients (levels > 37
+u/l). alt values were available and normal
+in six of the seven patients. creatine kinase
+values were available and elevated in three of
+the seven patients (levels > 232 iu/l). blood
+and sputum cultures revealed no superadded
+
+organisms in all seven patients during the entire course of hospitalization.
+all patients were transferred to the icu
+from the emergency department and were
+placed in airborne infection isolation rooms.
+all seven patients were started on oseltamivir (tamiflu, roche laboratories) and various broad-spectrum antibiotics on admission
+or during hospitalization. one of the seven
+patients received empirical low-dose steroids during the icu stay. four of the seven
+patients survived the icu stay, were transferred to the medical floor, and were eventually discharged. the duration of hospitalization ranged from 15 to 58 days (median
+duration, 31 days).
+image analysis
+one of the seven patients underwent ct
+on the day of admission. the remaining six
+patients underwent ct 1–35 days after admission (median, 11 days). the time from
+symptom onset to performing the ct ranged
+from 4 to 49 days (median, 17 days). no ct
+examinations were repeated during hospitalization or after discharge from the hospital.
+airspace opacities were more common
+than interstitial changes on the ct studies of
+
+785
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+ajlan et al.
+
+a
+
+b
+fig. 4—44-year-old man with middle east respiratory syndrome (case 4). patient
+had no prior health problems. ct was performed 1 day after admission, which was
+9 days after onset of symptoms. patient died in icu.
+a, upper lung ct image shows large areas of bilateral subpleural ground-glass
+opacities (arrows).
+b, mid-lung ct image shows that ground-glass opacities have
+peribronchovascular distribution as well (arrow).
+c, lower lung ct image shows more extensive and confluent basal abnormalities,
+with right lower lobe consolidation (arrow) and bilateral smooth interlobular septal
+thickening (arrowheads).
+
+c
+our seven patients (table 1). five of the seven
+patients had both ground-glass opacities and
+consolidation (fig. 1). in those five patients,
+ground-glass opacities were more extensive
+than consolidation, with the exception of one
+patient. one of the seven patients had isolated ground-glass opacities and another had
+isolated consolidation (fig. 2). in a patient
+with isolated ground-glass opacities, ct was
+performed 49 days after the onset of symptoms, and minimal subpleural bands and architectural distortion were present. smooth
+septal thickening was identified in three of
+the seven patients. minimal peripheral reticulation, traction bronchiectasis, and perilobular opacities were noted in only one patient,
+who underwent ct 22 days after the onset
+of symptoms (fig. 3). only one patient had
+both mild bronchial wall thickening and illdefined centrilobular ground-glass nodules,
+suggestive of small airways involvement.
+small bilateral pleural effusions were present in three of the seven patients. none of the
+patients had tree-in-bud pattern, cavitation,
+or intrathoracic lymph node enlargement.
+the abnormalities were bilateral in six and
+unilateral in one of seven patients. the patient
+
+786
+
+with unilateral involvement had a single focal
+consolidation in the left lower lobe. both subpleural and lower lung–predominant airspace
+involvement were identified in five of the seven patients. in the remaining two patients,
+the abnormalities were extensive and diffuse,
+with no clear craniocaudal or transverse predominance. in four of five patients with subpleural predominant airspace involvement,
+variable degrees of peribronchovascular airspace involvement were also present (fig. 4).
+discussion
+this study shows that airspace opacities on
+ct are common in patients hospitalized with
+mers-cov infection. in most of our patients,
+ground-glass opacities were more extensive
+than consolidation. however, one patient had
+more pronounced consolidation and another
+had an isolated focal consolidation in the left
+lower lobe. another observation is that a few
+patients may show septal thickening and pleural effusions. importantly, tree-in-bud pattern, cavitation, and lymph node enlargement
+were not seen in our cohort.
+the presence of variable degrees of lung
+opacities in mers has been described in a few
+
+studies, without clearly addressing the exact
+distribution [2, 12]. because our study evaluated the ct findings in this laboratory-confirmed
+group of mers patients, we had the ability to
+better characterize the nature and distribution
+of the abnormalities. the predominance of airspace opacities in the subpleural and basilar
+lung regions is a noteworthy finding. additionally, a few patients showed peribronchovascular involvement as well. airspace opacities in
+such a distribution have been described as suggestive of an organizing pneumonia pattern
+[15, 16]. this pattern is reminiscent of what
+has been described in cases of h1n1 influenza a virus (formerly known as swine-origin
+influenza virus) infection, in which an imaging picture of organizing pneumonia developed in acutely sick patients [17, 18]. although
+the presence of organizing pneumonia in cases of h1n1 influenza a infection was initially described in the radiology literature [17, 18],
+subsequent histopathology studies confirmed
+this pattern on evaluated lung specimens [19,
+20]. it is early at this stage to reach any solid
+conclusions, but our understanding of merscov may undergo the same evolution as that of
+h1n1 influenza a virus.
+
+ajr:203, october 2014
+
+downloaded from www.ajronline.org by purdue university library tss on 11/12/19 from ip address 128.211.185.213. copyright arrs. for personal use only; all rights reserved
+
+ct in mers-cov infection
+in the two patients in whom the time from
+the onset of symptoms to performing ct was
+the longest (22 and 49 days), reticulation and
+traction bronchiectasis were seen in one patient, whereas subpleural bands and architectural distortion were seen in the other.
+organizing pneumonia, a nonspecific inflammatory lung response to insults, is known to
+progress to a fibrotic process in some patients
+on longer-term follow-up [21]. fibrotic changes after organizing pneumonia may have occurred in those two patients, but the lack of
+ct early in the course of the disease is a limitation to this assumption.
+the who recommends various droplet,
+airborne, and contact precautions when dealing with suspected cases of mers-cov infection [4]. however, for several reasons, timely
+identification of mers patients is not always
+straightforward. first, patients may present
+with mild or unusual symptoms [2, 4, 12]. second, apparently healthy patients could carry
+mers-cov that may be unrecognized [22].
+third, rrt-pcr testing of initial respiratory samples may yield false-negative results
+[12]. fourth, even in patients correctly identified with mers-cov, the result of rrt-pcr
+may take 24–48 hours to be processed. thus, in
+patients with acute respiratory symptoms who are
+living in or traveling from areas of the mers-cov
+outbreak, familiarity with suggestive imaging findings may help with early isolation
+and management.
+we acknowledge that the retrospective design and small number of patients limit our
+study. with this in mind, it would be difficult
+to reach generalized conclusions regarding how
+ct findings would correlate with clinical outcomes. additionally, the time from symptom
+onset to performing the ct examination was
+variable, which limited our ability to ascertain the relationship between symptom duration and lung imaging findings. we suggest that
+mers-cov induces an organizing pneumonia lung reaction, but we had no histopathologic lung specimen correlation to solidify this observation.
+in summary, the most common ct finding in hospitalized patients with mers-cov
+infection is that of bilateral, predominantly subpleural and basilar airspace changes,
+with more extensive ground-glass opacities
+
+ajr:203, october 2014
+
+than consolidation. the predilection of the
+abnormalities to the subpleural and peri­
+broncho­vascular regions is suggestive of an
+organizing pneumonia pattern. recognizing
+this pattern in acutely ill patients living in or
+traveling from endemic areas may help in the
+early diagnosis of mers-cov infection.
+references
+1. zaki am, van boheemen s, bestebroer tm, osterhaus ad, fouchier ra. isolation of a novel
+coronavirus from a man with pneumonia in saudi
+arabia. n engl j med 2012; 367:1814–1820
+2. assiri a, al-tawfiq ja, al-rabeeah aa, et al. epidemiological, demographic, and clinical characteristics of 47 cases of middle east respiratory syndrome coronavirus disease from saudi arabia: a
+descriptive study. lancet inf dis 2013; 13:752–761
+3. world health organization website. middle east respiratory syndrome coronavirus (mers-cov) summary and literature update—as of 27 march 2014.
+www.who.int/csr/disease/coronavirus_infections/
+mers_cov_update_27_march_2014.pdf?ua=1.
+accessed april 17, 2014
+4. world health organization website. global alert
+and response: middle east respiratory syndrome
+coronavirus (mers-cov)—april 14, 2014 update.
+www.who.int/csr/don/2014_04_14_mers/en/index.
+html. accessed april 17, 2014
+5. world health organization website. middle east
+respiratory syndrome coronavirus (mers-cov)
+summary and literature update—as of 9 may 2014.
+www.who.int/csr/disease/coronavirus_infections/
+mers_cov_update_27_march_2014.pdf?ua=1.
+accessed may 13, 2014
+6. memish za, zumla ai, al-hakeem rf, al-rabeeah aa, stephens gm. family cluster of middle east respiratory syndrome coronavirus infections. n engl j med 2013; 368:2487–2494
+7. assiri a, mcgeer a, perl tm, et al. hospital outbreak of middle east respiratory syndrome coronavirus. n engl j med 2013; 369:407–416
+8. memish za, cotten m, meyer b, et al. human
+infection with mers coronavirus after exposure
+to infected camels, saudi arabia, 2013. emerg
+infect dis 2014; 20:1012–1015
+9. alagaili an, briese t, mishra n, et al. middle
+east respiratory syndrome coronavirus infection
+in dromedary camels in saudi arabia. mbio 2014;
+5:e00884-14
+10. memish za, mishra n, olival kj, et al. middle
+east respiratory syndrome coronavirus in bats,
+
+saudi arabia. emerg infect dis 2013; 19:1819–1823
+11. abdel-moneim as. middle east respiratory syndrome coronazvirus (mers-cov): evidence and
+speculations. arch virol [epub 2014 feb 11]
+12. arabi ym, arifi aa, balkhy hh, et al. clinical
+course and outcomes of critically ill patients with
+middle east respiratory syndrome coronavirus
+infection. ann intern med 2014; 160:389–397
+13. corman vm, eckerle i, bleicker t, et al. detection of a novel human coronavirus by real-time
+reverse-transcription polymerase chain reaction.
+euro surveill 2012; 17:20285
+14. corman vm, müller ma, costabel u, et al. assays for laboratory confirmation of novel human
+coronavirus (hcov-emc) infections. euro surveill 2012; 17:20334
+15. ujita m, renzoni ea, veeraraghavan s, wells
+au, hansell dm. organizing pneumonia: peri­
+lobular pattern at thin-section ct. radiology
+2004; 232:757–761
+16. travis wd, costabel u, hansell dm, et al. an official american thoracic society/european
+respiratory society statement: update of the international multidisciplinary classification of the
+idiopathic interstitial pneumonias. am j respir
+crit care med 2013; 188:733–748
+17. ajlan am, quiney b, nicolaou s, müller nl. swineorigin influenza a (h1n1) viral infection: radiographic and ct findings. ajr 2009; 193:1494–1499
+18. ajlan am, khashoggi k, nicolaou s, müller nl.
+ct utilization in the prospective diagnosis of a
+case of swine-origin influenza a (h1n1) viral infection. j radiol case rep. 2010; 4:24–30
+19. gill jr, sheng zm, ely sf, et al. pulmonary pathologic findings of fatal 2009 pandemic influenza
+a/h1n1 viral infections. arch pathol lab med
+2010; 134:235–243
+20. marchiori e, zanetti g, fontes c, santos m, influenza a (h1n1) virus-associated pneumonia: highresolution computed tomography—pathologic
+correlation. eur j radiol 2011; 80:e500–e504
+21. kligerman sj, franks tj, galvin jr. from the
+radiologic pathology archives: organization and
+fibrosis as a response to lung injury in diffuse alveolar damage, organizing pneumonia, and acute
+fibrinous and organizing pneumonia. radiographics 2013; 33:1951–1975
+22. world health organization website. global alert
+and response: middle east respiratory syndrome
+coronavirus (mers-cov)—june 26, 2013 update.
+www.who.int/csr/don/2013_06_26/en/index.html.
+accessed april 17, 2014
+
+787
+
+

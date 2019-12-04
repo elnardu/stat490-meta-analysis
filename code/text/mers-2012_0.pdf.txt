@@ -1,0 +1,414 @@
+rapid communications
+
+severe respiratory illness caused by a novel coronavirus,
+in a patient transferred to the united kingdom from the
+middle east, september 2012
+a bermingham1, m a chand (meera.chand@hpa.org.uk)1, c s brown1,2, e aarons3, c tong 3, c langrish3, k hoschler1, k brown1,
+m galiano1, r myers1, r g pebody1, h k green1, n l boddington1, r gopal1, n price3, w newsholme3, c drosten4 , r a fouchier5,
+m zambon1
+1. health protection agency (hpa), london, united kingdom
+2. centre for clinical infection and diagnostics research, king’s college london, london, england
+3. guy’s and st thomas’ nhs foundation trust and king’s health partners, london, united kingdom
+4. institute of virology, university of bonn medical centre, bonn, germany
+5. department of virology, erasmus medical centre, rotterdam, the netherlands
+citation style for this article:
+bermingham a, chand ma, brown cs, aarons e, tong c, langrish c, hoschler k, brown k, galiano m, myers r, pebody rg, green hk, boddington nl, gopal r, price
+n, newsholme w, drosten c, fouchier ra, zambon m. severe respiratory illness caused by a novel coronavirus, in a patient transferred to the united kingdom from
+the middle east, september 2012. euro surveill. 2012;17(40):pii=20290. available online: http://www.eurosurveillance.org/viewarticle.aspx?articleid=20290
+article submitted on 27 september 2012 / published on 4 october 2012
+
+coronaviruses have the potential to cause severe
+transmissible human disease, as demonstrated by the
+severe acute respiratory syndrome (sars) outbreak of
+2003. we describe here the clinical and virological features of a novel coronavirus infection causing severe
+respiratory illness in a patient transferred to london,
+united kingdom, from the gulf region of the middle
+east.
+
+introduction
+
+coronaviruses are recognised causes of mild respiratory tract infections in humans, first identified in the
+1960s [1]. these large rna viruses affect a wide range
+of animals including domestic and companion animals
+and bats [2]. limited surveillance data show that bats
+host the greatest diversity of coronaviruses, varying by
+region and species [3], suggesting that they may be the
+natural reservoir.
+the severe acute respiratory syndrome (sars) outbreak of 2003 – affecting over 8,000 people across
+three continents with a case fatality ratio of about 10%
+[4] – indicates the potential of an animal coronavirus to
+jump species and transmit from person to person causing severe illness. this experience has raised awareness of the potential threat from zoonotic coronaviral
+infections and the need to adopt strict infection control measures when such cases are found, especially in
+healthcare settings. we describe here the clinical features and diagnostic detection of a novel coronavirus
+infection in a severely ill adult transferred to london,
+united kingdom, from the gulf region of the middle
+east for medical care.
+
+case history
+
+on 14 september 2012, the united kingdom health
+protection agency (hpa) imported fever service was
+notified of a case of unexplained severe respiratory
+www.eurosurveillance.org
+
+illness in a london intensive care unit. the patient had
+recently transferred from qatar and had a history of
+travel to saudi arabia.
+he was a previously well 49 year-old man who developed a mild undiagnosed respiratory illness while
+visiting saudi arabia during august 2012, which fully
+resolved. he subsequently presented to a physician
+in qatar on 3 september, with cough, myalgia and
+arthralgia, and was prescribed oral antibiotics. five
+days later, he was admitted to a qatari hospital with
+fever (38.4 °c) and hypoxia, with oxygen saturation
+of 91% on room air. a chest x-ray showed bilateral
+lower zone consolidation. he was treated with ceftriaxone, azithromycin and oseltamivir. after 48 hours,
+he required intubation and ventilation and was transferred by air ambulance to london. during transfer, he
+was clinically unstable, requiring manual ventilation.
+on admission to intensive care in london, he remained
+severely hypoxic, achieving an arterial pao2 of 6.5 kpa
+(normal range: 11–13 kpa) on 100% oxygen with optimised pressure ventilation, and required low-dose
+norepinephrine to maintain blood pressure. his white
+blood cell count was 9.1 x 109/l (normal range: 4–11 x
+109/l), c-reactive protein 350 mg/l (normal range: 0–10
+mg/l) and creatinine 353 μmol/l (normal range: 53–97
+μmol/l), with normal liver function and coagulation.
+he was treated with corticosteroids and broad-spectrum antibiotics, initially meropenem, clarithromycin
+and teicoplanin. colistin and liposomal amphotericin b
+were subsequently added.
+his condition deteriorated between 11 and 20
+september, with progressive hypoxia. his c-reactive
+protein level peaked at 440 mg/l and procalcitonin at
+68 ng/ml (normal level: <0.5 ng/ml). his renal function worsened and haemofiltration was initiated on 14
+1
+
+table 1
+microbiological investigations performed on london patient with novel coronavirus infection, september 2012
+source
+qatar
+
+sample
+
+date of investigation (september 2012)
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+broncho-alveolar lavage
+combined nose and throat swab
+local bacterial/viral testing a
+imported fever panel
+(blood/serum/urine/throat swab)b
+
+london:
+icu
+
+sputum
+nose swab
+throat swab
+tracheal aspirate
+broncho-alveolar lavagec
+
+london:
+specialist
+icu
+
+cerebrospinal fluid
+blood (edta/serum)
+stool
+
+edta: ethylenediaminetetraacetic acid; icu: intensive care unit; pcr: polymerase chain reaction.
+red = coronavirus detected (pan-coronavirus assay and real-time pcr assay for upe and orf1b (specific for novel coronavirus)
+green = no pathogens detected, including testing by pan-coronavirus assay
+blue = negative for all pathogens (not tested by pan-coronavirus assay)
+a
+
+b
+
+c
+
+included multiple blood and sputum cultures; urinalysis; atypical pneumonia screen; blood-borne virus screen; epstein–barr virus,
+cytomegalovirus, and varicella zoster virus; respiratory virus screen; mycobacterial respiratory screen; and tracheostomy site culture.
+included dengue virus; west nile virus; chikungunya virus; hantavirus; sindbis virus; rift valley fever virus; sandfly viruses; rickettsiae;
+coxiella burnettii; burkholderia mallei and b. pseudomallei.
+negative for respiratory bacterial culture and mycobacterial stain and respiratory influenza a/b, parainfluenza 1-4, rsv a/b, human
+metapneumovirus, enterovirus, rhinovirus, adenovirus, human bocavirus, and the human coronaviruses (nl63, 229e, oc43, hku1).
+
+september. he was transferred to a specialist intensive
+care unit and on 20 september (day 17 of illness), extracorporeal membrane oxygenation (ecmo) was started.
+as of 2 october, he remains stable but fully dependent
+on ecmo after 13 days (day 30 of illness).
+
+diagnostic approach
+
+microbiological diagnostics in qatar and london were
+used to look initially for common viral and bacterial
+causes of severe respiratory illness and subsequently
+for pathogens endemic in the middle east (table 1). by
+mid-september, the syndrome was considered most
+compatible with viral pneumonia. upper and lower respiratory tract samples were sent to the hpa respiratory
+virus unit for extended influenza testing; all were negative. on 20 september, a promed report described
+2
+
+a novel human coronavirus recovered from an adult
+male saudi arabian who died in june 2012 following
+acute respiratory illness, pneumonia and renal failure
+[5]. the erasmus medical center (the netherlands) had
+sequenced the virus and identified it as a previously
+undescribed coronavirus, related to known bat coronaviruses. given that the patient described in our report
+had travelled to saudi arabia, hpa, in consultation with
+local clinicians, decided to investigate samples from
+the patient for the presence of the novel coronavirus.
+
+detection of a novel coronavirus
+
+we used real-time pcr on upper (nose and throat
+swabs) and lower respiratory tract samples (sputum
+and tracheal aspirates) to test for a range of coronaviruses: oc43, 229e, nl63 and sars-cov. we also used
+www.eurosurveillance.org
+
+table 2
+real-time pcr results of coronavirus samples, september 2012
+sample/isolate
+
+e gene
+rotorgene (ct)
+
+orf 1b gene
+abi taqman (ct)
+
+rotorgene (ct)
+
+abi taqman (ct)
+
+novel coronavirus isolated in the netherlands (patient from saudi arabia) reported to promed
+cultured virus (approximate
+titre 106/ml)
+
+18.9
+
+17.5
+
+22.7
+
+21.9
+
+30.5
+
+28.8
+
+35.6
+
+35.4
+
+28.3
+
+26.6
+
+32.8
+
+31.7
+
+26.2
+
+24.9
+
+31.4
+
+30.0
+
+samples from confirmed case in london
+combined nose
+and throat swab
+13/9/ 2012
+sputum
+17/12/2012
+deep tracheal
+aspirate
+19/12/2012
+
+ct: cycle threshold; pcr: polymerase chain reaction.
+results of specific real-time pcr assays [10] directed towards the upstream e gene (upe) and the orf 1b region of the new coronavirus tested
+against cultured virus from the patient who died in saudi arabia, and clinical material from the confirmed case of novel coronavirus in
+london.
+
+a block-based pan-coronavirus pcr with degenerate
+primers targeted to the conserved rna-dependent rna
+polymerase (rdrp pol) gene that detects all coronaviruses known to infect humans and a range of animal
+coronaviruses [6]. the pan-coronavirus assay yielded a
+band of the correct size in lower respiratory tract samples, but the assays for oc43, 229e, nl63 and sarscoronaviruses were negative. sanger sequencing of
+the pan-coronavirus pcr product (a 251 base pair fragment encompassing nucleotides 104–354 of the nsp12
+gene) yielded a sequence that on blast analysis gave
+genetic identity of 81% to bat coronavirus/133/2005
+(genbank accession number dq648794.1) and 75%
+identity to porcine haemagglutinating encephalomyelitis virus strain vw572 (genbank accession number
+dq011855.1) the sequence identified is available on
+the hpa website [7]. in response to this identification,
+a new set of real-time rt pcr assays were developed
+[8]. the results of these assays tested on novel coronavirus tissue culture material and clinical samples from
+this confirmed case are shown in table 2.
+on the basis of the sequence obtained, a maximum
+likelihood tree (figure) showed that the virus belongs
+to the genus betacoronavirus, with closest relationships to bat coronaviruses hku4 and hku5. viruses
+that share more than 90% sequence identity in the
+conserved replicase domain are considered to belong
+to the same species by the international committee on
+taxonomy of viruses (ictv). our sequence comparisons suggested that the virus nucleic acid fragment
+identified is derived from a novel coronavirus that is
+distinct from all coronaviruses described to date.
+
+www.eurosurveillance.org
+
+a total of 13 close contacts of the index case were identified who had developed mild self-limiting respiratory illnesses since exposure to the case [8]. ten of
+these have had nose and throat swabs tested by pancoronavirus assay and the novel coronavirus was not
+detected.
+
+discussion
+
+ascribing viral taxonomy on the basis of a small segment of sequence representing less than 1% of a viral
+genome is highly presumptive. however, the replicase
+genes are extremely conserved within coronaviruses,
+and the gene targeted by the pan-coronavirus assay is
+highly correlated with taxonomic classification based
+on the whole genome [9], confirming the choice of
+assay and the validity of the phylogeny (figure). final
+allocation of taxonomy and nearest neighbour relatedness will require more extensive sequence obtained
+either through genomic analysis of virus isolates cultured from the available clinical material, or more
+extensive partial genome sequence derived directly
+from clinical material if virus isolation is not possible.
+while most coronaviral infections of humans cause mild
+illness, zoonotic transmission of animal coronaviruses
+such as sars-cov can cause severe illness and death.
+preliminary data sharing (ron fouchier, personal communication, 23 september 2012) indicates 99.5% identity over the region of the replicase compared with the
+virus isolated from the patient in saudi arabia and
+described in promed. this is confirmed by the publication of the whole genome sequence (genbank accession number jx869059.1). on the basis of the clinical
+and virological features, we believe that the fragment
+3
+
+figure
+phylogenetic relationships of partial sequences from the polymerase gene (nsp12) of the coronavirus sequence obtained at
+the health protection agency, together with representative coronaviruses from different groups
+
+the sequence obtained at the health protection agency has been tentatively named as london1_novel cov 2012. the phylogenetic tree was
+constructed with fasttree software, using the maximum-likelihood method with general time-reversible model of nucleotide substitution.
+bootstrap values were obtained with 1,000 replicates. coronavirus groups are shown on the right hand side of the tree, with 1, 2 and 3
+corresponding to alpha, beta and gammacoronaviruses respectively.
+
+of coronaviral sequence we have recovered represents
+a novel human coronavirus causing a severe respiratory illness.
+the rapid development of sensitive and specific
+molecular diagnostics for new organisms is facilitated
+by sharing information and data between laboratories with different capabilities or reagents. the initial
+molecular approaches used in this case were part of a
+broad screening approach based on experience gained
+during the response to sars. the development of specific diagnostics for the novel coronavirus will improve
+sensitivity and enable rapid exclusion or identification
+of potential clinical cases.
+
+4
+
+the origin for this novel virus is unknown.
+epidemiological human and animal investigations in
+the region of origin are required to distinguish between
+an animal reservoir that either directly or indirectly
+transmits the virus occasionally to humans, and a previously unrecognised endemic infection of humans that
+causes severe outcomes in a few of those infected.
+distinguishing between these possibilities will require
+wider application of more specific and sensitive molecular assays for coronaviruses, and greater awareness
+of the possible presence of coronaviruses in human
+acute severe respiratory illness. extensive serological
+testing of potentially exposed human populations and
+contacts will be a key indicator of the extent of disease
+due to novel coronaviruses.
+www.eurosurveillance.org
+
+references
+1.
+2.
+3.
+4.
+
+5.
+6.
+7.
+
+8.
+
+9.
+
+10.
+
+tyrrell da, bynoe ml. cultivation of a novel type of commoncold virus in organ cultures. br med j. 1965;1(5448):1467-70.
+shi z, hu z. a review of studies on animal reservoirs of the
+sars coronavirus. virus res. 2008;133(1):74-87.
+anderson lj, tong s. update on sars research and other
+possibly zoonotic coronaviruses. int j antimicrob agents.
+2010;36 suppl 1:s21-5.
+world health organization (who). summary table of sars
+cases by country, 1 november 2002 - 7 august 2003. geneva:
+who; 15 aug 2003. available from: http://www.who.int/csr/
+sars/country/2003_08_15/en/index.html
+promed mail. novel coronavirus - saudi arabia: human isolate.
+archive number: 20120920.1302733. available from: http://
+www.promedmail.org/?p=2400:1000
+bermingham a, heinen p, iturriza-gómara m, gray j, appleton
+h, zambon mc. laboratory diagnosis of sars. philos trans r
+soc lond b biol sci. 2004;359(1447):1083-9.
+health protection agency (hpa). partial genetic
+sequence information for scientists about the novel
+coronavirus 2012. london: hpa. [accessed 2 oct
+2012]. available from: http://www.hpa.org.uk/topics/
+infectiousdiseases/infectionsaz/novelcoronavirus2012/
+resppartialgeneticsequenceofnovelcoronavirus/
+pebody rg, chand ma, thomas hl, green hk, boddington
+nl, carvalho c, et al. the united kingdom public health
+response to an imported laboratory confirmed case of
+a novel coronavirus in september 2012. euro surveill.
+2012;17(40):pii=20292. available from: http://www.
+eurosurveillance.org/viewarticle.aspx?articleid=20292
+drexler jf, gloza-rausch f, glende j, corman vm, muth d,
+goettsche m, et al. genomic characterization of severe
+acute respiratory syndrome-related coronavirus in european
+bats and classification of coronaviruses based on partial
+rna-dependent rna polymerase gene sequences j virol.
+2010;84(21):11336-49.
+corman vm, eckerle i, bleicker t, zaki a, landt o, eschbachbludau m, et al. detection of a novel human coronavirus by
+real-time reverse-transcription polymerase chain reaction.
+euro surveill. 2012;17(39):pii=20285. available online: http://
+www.eurosurveillance.org/viewarticle.aspx?articleid=20285
+
+www.eurosurveillance.org
+
+5
+
+

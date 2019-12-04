@@ -1,0 +1,133 @@
+the
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+edi t or i a l
+
+vaping-induced lung injury
+david c. christiani, m.d., m.p.h.
+a number of environmental agents are known to
+cause acute or subacute inhalation injury to the
+lung parenchyma. indeed, emergency response
+guidelines for medical personnel describe toxic
+inhalation pneumonitis as a heterogeneous group
+of chemically induced injuries to the lung parenchyma as well as to the upper respiratory tract.
+the manifestations of such injury depend on the
+characteristics (e.g., solubility, composition) and
+the amount of the toxic compound or compounds
+inhaled.1 much of what we know about toxic
+inhalation syndromes derives from high levels of
+exposure in either occupational settings (e.g., exposure to metals, solvents, acids, bases, ozone,
+phosgene, or chlorine dioxide) or community settings where fires or accidents may occur (e.g., factory explosions, derailments of chemical-bearing
+train cars, and overexposure to household cleaning agents). depending on the type of chemical
+agent and the amount of material inhaled, patients may experience symptoms ranging from
+minor respiratory tract discomfort to acute airway injury and damage to the parenchyma with
+pneumonitis, alveolar edema, respiratory failure,
+and death. a common pathophysiological pathway includes inflammation, edema of airways with
+epithelial sloughing, alveolar inflammation, and
+edema with hypoxemia.2
+layden et al.3 now report in the journal a cluster
+of cases from illinois and wisconsin in which
+patients presented with acute, severe respiratory
+distress after using e-cigarette (vaping) products.
+two letters also published in the journal add further support to vaping-induced respiratory distress: a 6-case cluster from utah4 and a report of
+imaging changes seen in a range of cases.5 the
+centers for disease control and prevention re-
+
+ported in late august 2019 that at least 215 acute,
+severe respiratory distress cases have been identified, spanning 25 states, and as of this writing
+at least 2 deaths have occurred.6 although more
+investigation is needed to determine the vaping
+agent or agents responsible, there is clearly an
+epidemic that begs for an urgent response.
+the cases demonstrate a heterogeneous collection of pneumonitis patterns that include acute
+eosinophilic pneumonia, organizing pneumonia,
+lipoid pneumonia, diffuse alveolar damage and
+acute respiratory distress syndrome (ards), diffuse alveolar hemorrhage, hypersensitivity pneumonitis, and the rare giant-cell interstitial pneumonitis. though the precise manifestations of the
+respiratory injury may be diverse, there are clues
+to the precipitants that warrant attention. about
+80% of the persons who vaped and became ill
+reported having used both nicotine products and
+tetrahydrocannabinol (thc) or cannabidiol (cbd)
+products. active infection (which would include
+live bacterial contamination of e-cigarette fluids)
+does not appear to explain the clinical presentation, but acute toxic lung injury does seem to fit.
+mixing of multiple ingredients with primary compounds and potential contaminants may result in
+in vitro (or even in vivo) production of new agents
+that may be toxic. e-cigarette fluids have been
+shown to contain at least six groups of potentially toxic compounds: nicotine, carbonyls, volatile organic compounds (such as benzene and
+toluene), particles, trace metal elements according
+to flavor,7 and bacterial endotoxins and fungal
+glucans.8 two flavorants alone, diacetyl and
+2,3-pentanediol, have been shown to perturb gene
+expression pathways related to cilia and cytoskeletal processes in normal human bronchial epithe-
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+1
+
+the
+
+n e w e ng l a n d j o u r na l
+
+lial cells.9 the effect of adding ingredients such as
+thc or cbd to this mix needs to be investigated.
+until the investigation into the cause of this
+epidemic of vaping-induced respiratory injury is
+complete, no conclusions can be drawn as to
+which compound or compounds are the causes
+of injury. in light of these cases, however, efforts
+should be made to increase public awareness of
+the harmful effect of vaping, and physicians should
+discourage their patients from vaping.
+disclosure forms provided by the author are available with the
+full text of this editorial at nejm.org.
+from the department of environmental health, harvard t.h.
+chan school of public health, boston.
+this editorial was published on september 6, 2019, at nejm.org.
+1. kales sn, christiani dc. acute chemical emergencies.
+
+n engl j med 2004;​350:​800-8.
+2. matthay ma, zemans rl, zimmerman ga, et al. acute respiratory distress syndrome. nat rev dis primers 2019;​5:​18.
+
+2
+
+of
+
+m e dic i n e
+
+3. layden je, ghinai i, pray i, et al. pulmonary illness related
+
+to e-cigarette use in illinois and wisconsin — preliminary report. n engl j med. doi:​10.1056/nejmoa1911614.
+4. maddock sd, cirulis mm, callahan sj, et al. pulmonary lipidladen macrophages and vaping. n engl j med. doi:​10.1056/
+nejmc1912038.
+5. henry ts, kanne jp, kligerman sj. imaging of vaping-associated lung disease. n engl j med. doi:​10.1056/nejmc1911995.
+6. centers for disease control and prevention. outbreak of severe pulmonary disease associated with using e-cigarette products:​
+investigation notice. august 30, 2019 (https://www​.cdc​.gov/​tobacco/​
+basic_information/​e​-­cigarettes/​severe​-­lung​-­disease​.html).
+7. lee ms, lebouf rf, son ys, koutrakis p, christiani dc.
+nicotine, aerosol particles, carbonyls and volatile organic compounds in tobacco- and menthol-flavored e-cigarettes. environ
+health 2017;​16:​42.
+8. lee ms, allen jg, christiani dc. endotoxin and (1→3)-β-dglucan contamination in electronic cigarette products sold in
+the united states. environ health perspect 2019;​127:​47008.
+9. park hr, o’sullivan m, vallarino j, et al. transcriptomic
+response of primary human airway epithelial cells to flavoring
+chemicals in electronic cigarettes. sci rep 2019;​9:​1400.
+doi: 10.1056/nejme1912032
+copyright © 2019 massachusetts medical society.
+
+n engl j med﻿﻿ nejm.org﻿
+
+the new england journal of medicine
+downloaded from nejm.org at purdue university libraries on november 12, 2019. for personal use only. no other uses without permission.
+copyright © 2019 massachusetts medical society. all rights reserved.
+
+
